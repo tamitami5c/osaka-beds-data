@@ -1,0 +1,1 @@
+# osaka-beds-data
