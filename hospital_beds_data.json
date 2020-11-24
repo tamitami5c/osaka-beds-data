@@ -1374,6 +1374,42 @@
                 "hospital_capacity": 1199,
                 "num_patients": 502,
                 "percentage": 0.4186822351959967
+            },
+            {
+                "date": "2020-11-18",
+                "hospital_capacity": 1199,
+                "num_patients": 520,
+                "percentage": 0.43369474562135113
+            },
+            {
+                "date": "2020-11-19",
+                "hospital_capacity": 1199,
+                "num_patients": 530,
+                "percentage": 0.44203502919099247
+            },
+            {
+                "date": "2020-11-20",
+                "hospital_capacity": 1199,
+                "num_patients": 536,
+                "percentage": 0.4470391993327773
+            },
+            {
+                "date": "2020-11-21",
+                "hospital_capacity": 1199,
+                "num_patients": 539,
+                "percentage": 0.44954128440366975
+            },
+            {
+                "date": "2020-11-22",
+                "hospital_capacity": 1199,
+                "num_patients": 552,
+                "percentage": 0.4603836530442035
+            },
+            {
+                "date": "2020-11-23",
+                "hospital_capacity": 1199,
+                "num_patients": 650,
+                "percentage": 0.5421184320266889
             }
         ],
         "bed_data_for_severe": [
@@ -2750,6 +2786,42 @@
                 "hospital_capacity": 206,
                 "num_patients": 69,
                 "percentage": 0.33495145631067963
+            },
+            {
+                "date": "2020-11-18",
+                "hospital_capacity": 206,
+                "num_patients": 72,
+                "percentage": 0.34951456310679613
+            },
+            {
+                "date": "2020-11-19",
+                "hospital_capacity": 206,
+                "num_patients": 76,
+                "percentage": 0.36893203883495146
+            },
+            {
+                "date": "2020-11-20",
+                "hospital_capacity": 206,
+                "num_patients": 81,
+                "percentage": 0.3932038834951456
+            },
+            {
+                "date": "2020-11-21",
+                "hospital_capacity": 206,
+                "num_patients": 87,
+                "percentage": 0.4223300970873786
+            },
+            {
+                "date": "2020-11-22",
+                "hospital_capacity": 206,
+                "num_patients": 91,
+                "percentage": 0.441747572815534
+            },
+            {
+                "date": "2020-11-23",
+                "hospital_capacity": 206,
+                "num_patients": 98,
+                "percentage": 0.47572815533980584
             }
         ],
         "data_accommodation_facility": [
@@ -4126,6 +4198,42 @@
                 "num_rooms": 1517,
                 "num_patients": 465,
                 "percentage": 0.3065260382333553
+            },
+            {
+                "date": "2020-11-18",
+                "num_rooms": 1517,
+                "num_patients": 475,
+                "percentage": 0.3131179960448253
+            },
+            {
+                "date": "2020-11-19",
+                "num_rooms": 1517,
+                "num_patients": 497,
+                "percentage": 0.3276203032300593
+            },
+            {
+                "date": "2020-11-20",
+                "num_rooms": 1517,
+                "num_patients": 473,
+                "percentage": 0.3117996044825313
+            },
+            {
+                "date": "2020-11-21",
+                "num_rooms": 1517,
+                "num_patients": 467,
+                "percentage": 0.3078444297956493
+            },
+            {
+                "date": "2020-11-22",
+                "num_rooms": 1517,
+                "num_patients": 451,
+                "percentage": 0.2972972972972973
+            },
+            {
+                "date": "2020-11-23",
+                "num_rooms": 1517,
+                "num_patients": 675,
+                "percentage": 0.44495715227422544
             }
         ]
     }
