@@ -1422,6 +1422,12 @@
                 "hospital_capacity": 1199,
                 "num_patients": 676,
                 "percentage": 0.5638031693077564
+            },
+            {
+                "date": "2020-11-26",
+                "hospital_capacity": 1199,
+                "num_patients": 647,
+                "percentage": 0.5396163469557965
             }
         ],
         "bed_data_for_severe": [
@@ -2846,6 +2852,12 @@
                 "hospital_capacity": 206,
                 "num_patients": 107,
                 "percentage": 0.5194174757281553
+            },
+            {
+                "date": "2020-11-26",
+                "hospital_capacity": 206,
+                "num_patients": 108,
+                "percentage": 0.5242718446601942
             }
         ],
         "data_accommodation_facility": [
@@ -4270,6 +4282,12 @@
                 "num_rooms": 1517,
                 "num_patients": 711,
                 "percentage": 0.46868820039551745
+            },
+            {
+                "date": "2020-11-26",
+                "num_rooms": 1517,
+                "num_patients": 692,
+                "percentage": 0.45616348055372447
             }
         ]
     }
