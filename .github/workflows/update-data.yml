@@ -6,7 +6,7 @@ on:
 
 jobs:
   my-job:
-    name: Update kanagawa data
+    name: Update osaka beds data
     runs-on: ubuntu-latest
     steps:
     - name: checkout
