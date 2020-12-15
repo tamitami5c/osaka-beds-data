@@ -1,0 +1,4450 @@
+{
+    "data": {
+        "severe": [
+            {
+                "date": "2020-04-03",
+                "hospital_capacity": 32,
+                "num_patients": 17,
+                "ratio": 0.53125
+            },
+            {
+                "date": "2020-04-04",
+                "hospital_capacity": 32,
+                "num_patients": 20,
+                "ratio": 0.625
+            },
+            {
+                "date": "2020-04-05",
+                "hospital_capacity": 32,
+                "num_patients": 21,
+                "ratio": 0.65625
+            },
+            {
+                "date": "2020-04-06",
+                "hospital_capacity": 32,
+                "num_patients": 22,
+                "ratio": 0.6875
+            },
+            {
+                "date": "2020-04-07",
+                "hospital_capacity": 32,
+                "num_patients": 29,
+                "ratio": 0.90625
+            },
+            {
+                "date": "2020-04-08",
+                "hospital_capacity": 32,
+                "num_patients": 29,
+                "ratio": 0.90625
+            },
+            {
+                "date": "2020-04-09",
+                "hospital_capacity": 32,
+                "num_patients": 35,
+                "ratio": 1.09375
+            },
+            {
+                "date": "2020-04-10",
+                "hospital_capacity": 86,
+                "num_patients": 38,
+                "ratio": 0.4418604651162791
+            },
+            {
+                "date": "2020-04-11",
+                "hospital_capacity": 86,
+                "num_patients": 43,
+                "ratio": 0.5
+            },
+            {
+                "date": "2020-04-12",
+                "hospital_capacity": 86,
+                "num_patients": 45,
+                "ratio": 0.5232558139534884
+            },
+            {
+                "date": "2020-04-13",
+                "hospital_capacity": 86,
+                "num_patients": 51,
+                "ratio": 0.5930232558139535
+            },
+            {
+                "date": "2020-04-14",
+                "hospital_capacity": 86,
+                "num_patients": 51,
+                "ratio": 0.5930232558139535
+            },
+            {
+                "date": "2020-04-15",
+                "hospital_capacity": 86,
+                "num_patients": 59,
+                "ratio": 0.686046511627907
+            },
+            {
+                "date": "2020-04-16",
+                "hospital_capacity": 86,
+                "num_patients": 59,
+                "ratio": 0.686046511627907
+            },
+            {
+                "date": "2020-04-17",
+                "hospital_capacity": 122,
+                "num_patients": 61,
+                "ratio": 0.5
+            },
+            {
+                "date": "2020-04-18",
+                "hospital_capacity": 122,
+                "num_patients": 62,
+                "ratio": 0.5081967213114754
+            },
+            {
+                "date": "2020-04-19",
+                "hospital_capacity": 122,
+                "num_patients": 65,
+                "ratio": 0.5327868852459017
+            },
+            {
+                "date": "2020-04-20",
+                "hospital_capacity": 122,
+                "num_patients": 65,
+                "ratio": 0.5327868852459017
+            },
+            {
+                "date": "2020-04-21",
+                "hospital_capacity": 122,
+                "num_patients": 65,
+                "ratio": 0.5327868852459017
+            },
+            {
+                "date": "2020-04-22",
+                "hospital_capacity": 127,
+                "num_patients": 60,
+                "ratio": 0.47244094488188976
+            },
+            {
+                "date": "2020-04-23",
+                "hospital_capacity": 127,
+                "num_patients": 58,
+                "ratio": 0.4566929133858268
+            },
+            {
+                "date": "2020-04-24",
+                "hospital_capacity": 155,
+                "num_patients": 59,
+                "ratio": 0.38064516129032255
+            },
+            {
+                "date": "2020-04-25",
+                "hospital_capacity": 155,
+                "num_patients": 61,
+                "ratio": 0.3935483870967742
+            },
+            {
+                "date": "2020-04-26",
+                "hospital_capacity": 155,
+                "num_patients": 59,
+                "ratio": 0.38064516129032255
+            },
+            {
+                "date": "2020-04-27",
+                "hospital_capacity": 170,
+                "num_patients": 59,
+                "ratio": 0.34705882352941175
+            },
+            {
+                "date": "2020-04-28",
+                "hospital_capacity": 170,
+                "num_patients": 60,
+                "ratio": 0.35294117647058826
+            },
+            {
+                "date": "2020-04-29",
+                "hospital_capacity": 170,
+                "num_patients": 62,
+                "ratio": 0.36470588235294116
+            },
+            {
+                "date": "2020-04-30",
+                "hospital_capacity": 170,
+                "num_patients": 64,
+                "ratio": 0.3764705882352941
+            },
+            {
+                "date": "2020-05-01",
+                "hospital_capacity": 188,
+                "num_patients": 61,
+                "ratio": 0.324468085106383
+            },
+            {
+                "date": "2020-05-02",
+                "hospital_capacity": 188,
+                "num_patients": 60,
+                "ratio": 0.3191489361702128
+            },
+            {
+                "date": "2020-05-03",
+                "hospital_capacity": 188,
+                "num_patients": 60,
+                "ratio": 0.3191489361702128
+            },
+            {
+                "date": "2020-05-04",
+                "hospital_capacity": 188,
+                "num_patients": 62,
+                "ratio": 0.32978723404255317
+            },
+            {
+                "date": "2020-05-05",
+                "hospital_capacity": 188,
+                "num_patients": 61,
+                "ratio": 0.324468085106383
+            },
+            {
+                "date": "2020-05-06",
+                "hospital_capacity": 188,
+                "num_patients": 61,
+                "ratio": 0.324468085106383
+            },
+            {
+                "date": "2020-05-07",
+                "hospital_capacity": 188,
+                "num_patients": 59,
+                "ratio": 0.31382978723404253
+            },
+            {
+                "date": "2020-05-08",
+                "hospital_capacity": 188,
+                "num_patients": 58,
+                "ratio": 0.30851063829787234
+            },
+            {
+                "date": "2020-05-09",
+                "hospital_capacity": 188,
+                "num_patients": 56,
+                "ratio": 0.2978723404255319
+            },
+            {
+                "date": "2020-05-10",
+                "hospital_capacity": 188,
+                "num_patients": 50,
+                "ratio": 0.26595744680851063
+            },
+            {
+                "date": "2020-05-11",
+                "hospital_capacity": 188,
+                "num_patients": 50,
+                "ratio": 0.26595744680851063
+            },
+            {
+                "date": "2020-05-12",
+                "hospital_capacity": 188,
+                "num_patients": 50,
+                "ratio": 0.26595744680851063
+            },
+            {
+                "date": "2020-05-13",
+                "hospital_capacity": 188,
+                "num_patients": 45,
+                "ratio": 0.2393617021276596
+            },
+            {
+                "date": "2020-05-14",
+                "hospital_capacity": 188,
+                "num_patients": 43,
+                "ratio": 0.22872340425531915
+            },
+            {
+                "date": "2020-05-15",
+                "hospital_capacity": 188,
+                "num_patients": 41,
+                "ratio": 0.21808510638297873
+            },
+            {
+                "date": "2020-05-16",
+                "hospital_capacity": 188,
+                "num_patients": 39,
+                "ratio": 0.2074468085106383
+            },
+            {
+                "date": "2020-05-17",
+                "hospital_capacity": 188,
+                "num_patients": 39,
+                "ratio": 0.2074468085106383
+            },
+            {
+                "date": "2020-05-18",
+                "hospital_capacity": 188,
+                "num_patients": 36,
+                "ratio": 0.19148936170212766
+            },
+            {
+                "date": "2020-05-19",
+                "hospital_capacity": 188,
+                "num_patients": 37,
+                "ratio": 0.19680851063829788
+            },
+            {
+                "date": "2020-05-20",
+                "hospital_capacity": 188,
+                "num_patients": 35,
+                "ratio": 0.18617021276595744
+            },
+            {
+                "date": "2020-05-21",
+                "hospital_capacity": 188,
+                "num_patients": 30,
+                "ratio": 0.1595744680851064
+            },
+            {
+                "date": "2020-05-22",
+                "hospital_capacity": 188,
+                "num_patients": 29,
+                "ratio": 0.15425531914893617
+            },
+            {
+                "date": "2020-05-23",
+                "hospital_capacity": 188,
+                "num_patients": 24,
+                "ratio": 0.1276595744680851
+            },
+            {
+                "date": "2020-05-24",
+                "hospital_capacity": 188,
+                "num_patients": 24,
+                "ratio": 0.1276595744680851
+            },
+            {
+                "date": "2020-05-25",
+                "hospital_capacity": 188,
+                "num_patients": 25,
+                "ratio": 0.13297872340425532
+            },
+            {
+                "date": "2020-05-26",
+                "hospital_capacity": 188,
+                "num_patients": 23,
+                "ratio": 0.12234042553191489
+            },
+            {
+                "date": "2020-05-27",
+                "hospital_capacity": 188,
+                "num_patients": 21,
+                "ratio": 0.11170212765957446
+            },
+            {
+                "date": "2020-05-28",
+                "hospital_capacity": 188,
+                "num_patients": 19,
+                "ratio": 0.10106382978723404
+            },
+            {
+                "date": "2020-05-29",
+                "hospital_capacity": 188,
+                "num_patients": 18,
+                "ratio": 0.09574468085106383
+            },
+            {
+                "date": "2020-05-30",
+                "hospital_capacity": 188,
+                "num_patients": 17,
+                "ratio": 0.09042553191489362
+            },
+            {
+                "date": "2020-05-31",
+                "hospital_capacity": 188,
+                "num_patients": 16,
+                "ratio": 0.0851063829787234
+            },
+            {
+                "date": "2020-06-01",
+                "hospital_capacity": 188,
+                "num_patients": 16,
+                "ratio": 0.0851063829787234
+            },
+            {
+                "date": "2020-06-02",
+                "hospital_capacity": 188,
+                "num_patients": 15,
+                "ratio": 0.0797872340425532
+            },
+            {
+                "date": "2020-06-03",
+                "hospital_capacity": 188,
+                "num_patients": 15,
+                "ratio": 0.0797872340425532
+            },
+            {
+                "date": "2020-06-04",
+                "hospital_capacity": 188,
+                "num_patients": 15,
+                "ratio": 0.0797872340425532
+            },
+            {
+                "date": "2020-06-05",
+                "hospital_capacity": 188,
+                "num_patients": 15,
+                "ratio": 0.0797872340425532
+            },
+            {
+                "date": "2020-06-06",
+                "hospital_capacity": 188,
+                "num_patients": 15,
+                "ratio": 0.0797872340425532
+            },
+            {
+                "date": "2020-06-07",
+                "hospital_capacity": 188,
+                "num_patients": 15,
+                "ratio": 0.0797872340425532
+            },
+            {
+                "date": "2020-06-08",
+                "hospital_capacity": 188,
+                "num_patients": 15,
+                "ratio": 0.0797872340425532
+            },
+            {
+                "date": "2020-06-09",
+                "hospital_capacity": 188,
+                "num_patients": 14,
+                "ratio": 0.07446808510638298
+            },
+            {
+                "date": "2020-06-10",
+                "hospital_capacity": 188,
+                "num_patients": 10,
+                "ratio": 0.05319148936170213
+            },
+            {
+                "date": "2020-06-11",
+                "hospital_capacity": 188,
+                "num_patients": 10,
+                "ratio": 0.05319148936170213
+            },
+            {
+                "date": "2020-06-12",
+                "hospital_capacity": 188,
+                "num_patients": 9,
+                "ratio": 0.047872340425531915
+            },
+            {
+                "date": "2020-06-13",
+                "hospital_capacity": 188,
+                "num_patients": 9,
+                "ratio": 0.047872340425531915
+            },
+            {
+                "date": "2020-06-14",
+                "hospital_capacity": 188,
+                "num_patients": 9,
+                "ratio": 0.047872340425531915
+            },
+            {
+                "date": "2020-06-15",
+                "hospital_capacity": 188,
+                "num_patients": 8,
+                "ratio": 0.0425531914893617
+            },
+            {
+                "date": "2020-06-16",
+                "hospital_capacity": 188,
+                "num_patients": 7,
+                "ratio": 0.03723404255319149
+            },
+            {
+                "date": "2020-06-17",
+                "hospital_capacity": 188,
+                "num_patients": 7,
+                "ratio": 0.03723404255319149
+            },
+            {
+                "date": "2020-06-18",
+                "hospital_capacity": 188,
+                "num_patients": 6,
+                "ratio": 0.031914893617021274
+            },
+            {
+                "date": "2020-06-19",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-06-20",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-06-21",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-06-22",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-06-23",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-06-24",
+                "hospital_capacity": 188,
+                "num_patients": 4,
+                "ratio": 0.02127659574468085
+            },
+            {
+                "date": "2020-06-25",
+                "hospital_capacity": 188,
+                "num_patients": 4,
+                "ratio": 0.02127659574468085
+            },
+            {
+                "date": "2020-06-26",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-06-27",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-06-28",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-06-29",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-06-30",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-01",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-02",
+                "hospital_capacity": 188,
+                "num_patients": 2,
+                "ratio": 0.010638297872340425
+            },
+            {
+                "date": "2020-07-03",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-04",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-05",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-06",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-07",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-08",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-09",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-10",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-11",
+                "hospital_capacity": 188,
+                "num_patients": 3,
+                "ratio": 0.015957446808510637
+            },
+            {
+                "date": "2020-07-12",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-07-13",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-07-14",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-07-15",
+                "hospital_capacity": 188,
+                "num_patients": 6,
+                "ratio": 0.031914893617021274
+            },
+            {
+                "date": "2020-07-16",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-07-17",
+                "hospital_capacity": 188,
+                "num_patients": 4,
+                "ratio": 0.02127659574468085
+            },
+            {
+                "date": "2020-07-18",
+                "hospital_capacity": 188,
+                "num_patients": 4,
+                "ratio": 0.02127659574468085
+            },
+            {
+                "date": "2020-07-19",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-07-20",
+                "hospital_capacity": 188,
+                "num_patients": 5,
+                "ratio": 0.026595744680851064
+            },
+            {
+                "date": "2020-07-21",
+                "hospital_capacity": 188,
+                "num_patients": 8,
+                "ratio": 0.0425531914893617
+            },
+            {
+                "date": "2020-07-22",
+                "hospital_capacity": 188,
+                "num_patients": 10,
+                "ratio": 0.05319148936170213
+            },
+            {
+                "date": "2020-07-23",
+                "hospital_capacity": 188,
+                "num_patients": 13,
+                "ratio": 0.06914893617021277
+            },
+            {
+                "date": "2020-07-24",
+                "hospital_capacity": 188,
+                "num_patients": 12,
+                "ratio": 0.06382978723404255
+            },
+            {
+                "date": "2020-07-25",
+                "hospital_capacity": 188,
+                "num_patients": 11,
+                "ratio": 0.05851063829787234
+            },
+            {
+                "date": "2020-07-26",
+                "hospital_capacity": 188,
+                "num_patients": 11,
+                "ratio": 0.05851063829787234
+            },
+            {
+                "date": "2020-07-27",
+                "hospital_capacity": 188,
+                "num_patients": 11,
+                "ratio": 0.05851063829787234
+            },
+            {
+                "date": "2020-07-28",
+                "hospital_capacity": 188,
+                "num_patients": 13,
+                "ratio": 0.06914893617021277
+            },
+            {
+                "date": "2020-07-29",
+                "hospital_capacity": 188,
+                "num_patients": 16,
+                "ratio": 0.0851063829787234
+            },
+            {
+                "date": "2020-07-30",
+                "hospital_capacity": 188,
+                "num_patients": 18,
+                "ratio": 0.09574468085106383
+            },
+            {
+                "date": "2020-07-31",
+                "hospital_capacity": 188,
+                "num_patients": 19,
+                "ratio": 0.10106382978723404
+            },
+            {
+                "date": "2020-08-01",
+                "hospital_capacity": 188,
+                "num_patients": 20,
+                "ratio": 0.10638297872340426
+            },
+            {
+                "date": "2020-08-02",
+                "hospital_capacity": 188,
+                "num_patients": 23,
+                "ratio": 0.12234042553191489
+            },
+            {
+                "date": "2020-08-03",
+                "hospital_capacity": 188,
+                "num_patients": 27,
+                "ratio": 0.14361702127659576
+            },
+            {
+                "date": "2020-08-04",
+                "hospital_capacity": 188,
+                "num_patients": 26,
+                "ratio": 0.13829787234042554
+            },
+            {
+                "date": "2020-08-05",
+                "hospital_capacity": 188,
+                "num_patients": 30,
+                "ratio": 0.1595744680851064
+            },
+            {
+                "date": "2020-08-06",
+                "hospital_capacity": 188,
+                "num_patients": 35,
+                "ratio": 0.18617021276595744
+            },
+            {
+                "date": "2020-08-07",
+                "hospital_capacity": 188,
+                "num_patients": 36,
+                "ratio": 0.19148936170212766
+            },
+            {
+                "date": "2020-08-08",
+                "hospital_capacity": 188,
+                "num_patients": 40,
+                "ratio": 0.2127659574468085
+            },
+            {
+                "date": "2020-08-09",
+                "hospital_capacity": 188,
+                "num_patients": 38,
+                "ratio": 0.20212765957446807
+            },
+            {
+                "date": "2020-08-10",
+                "hospital_capacity": 188,
+                "num_patients": 41,
+                "ratio": 0.21808510638297873
+            },
+            {
+                "date": "2020-08-11",
+                "hospital_capacity": 188,
+                "num_patients": 49,
+                "ratio": 0.26063829787234044
+            },
+            {
+                "date": "2020-08-12",
+                "hospital_capacity": 188,
+                "num_patients": 55,
+                "ratio": 0.2925531914893617
+            },
+            {
+                "date": "2020-08-13",
+                "hospital_capacity": 188,
+                "num_patients": 53,
+                "ratio": 0.28191489361702127
+            },
+            {
+                "date": "2020-08-14",
+                "hospital_capacity": 188,
+                "num_patients": 64,
+                "ratio": 0.3404255319148936
+            },
+            {
+                "date": "2020-08-15",
+                "hospital_capacity": 188,
+                "num_patients": 70,
+                "ratio": 0.3723404255319149
+            },
+            {
+                "date": "2020-08-16",
+                "hospital_capacity": 188,
+                "num_patients": 72,
+                "ratio": 0.3829787234042553
+            },
+            {
+                "date": "2020-08-17",
+                "hospital_capacity": 188,
+                "num_patients": 70,
+                "ratio": 0.3723404255319149
+            },
+            {
+                "date": "2020-08-18",
+                "hospital_capacity": 188,
+                "num_patients": 65,
+                "ratio": 0.34574468085106386
+            },
+            {
+                "date": "2020-08-19",
+                "hospital_capacity": 188,
+                "num_patients": 60,
+                "ratio": 0.3191489361702128
+            },
+            {
+                "date": "2020-08-20",
+                "hospital_capacity": 188,
+                "num_patients": 63,
+                "ratio": 0.3351063829787234
+            },
+            {
+                "date": "2020-08-21",
+                "hospital_capacity": 188,
+                "num_patients": 62,
+                "ratio": 0.32978723404255317
+            },
+            {
+                "date": "2020-08-22",
+                "hospital_capacity": 188,
+                "num_patients": 66,
+                "ratio": 0.35106382978723405
+            },
+            {
+                "date": "2020-08-23",
+                "hospital_capacity": 188,
+                "num_patients": 68,
+                "ratio": 0.3617021276595745
+            },
+            {
+                "date": "2020-08-24",
+                "hospital_capacity": 188,
+                "num_patients": 67,
+                "ratio": 0.35638297872340424
+            },
+            {
+                "date": "2020-08-25",
+                "hospital_capacity": 188,
+                "num_patients": 72,
+                "ratio": 0.3829787234042553
+            },
+            {
+                "date": "2020-08-26",
+                "hospital_capacity": 188,
+                "num_patients": 68,
+                "ratio": 0.3617021276595745
+            },
+            {
+                "date": "2020-08-27",
+                "hospital_capacity": 188,
+                "num_patients": 58,
+                "ratio": 0.30851063829787234
+            },
+            {
+                "date": "2020-08-28",
+                "hospital_capacity": 188,
+                "num_patients": 58,
+                "ratio": 0.30851063829787234
+            },
+            {
+                "date": "2020-08-29",
+                "hospital_capacity": 188,
+                "num_patients": 58,
+                "ratio": 0.30851063829787234
+            },
+            {
+                "date": "2020-08-30",
+                "hospital_capacity": 188,
+                "num_patients": 61,
+                "ratio": 0.324468085106383
+            },
+            {
+                "date": "2020-08-31",
+                "hospital_capacity": 188,
+                "num_patients": 60,
+                "ratio": 0.3191489361702128
+            },
+            {
+                "date": "2020-09-01",
+                "hospital_capacity": 188,
+                "num_patients": 61,
+                "ratio": 0.324468085106383
+            },
+            {
+                "date": "2020-09-02",
+                "hospital_capacity": 188,
+                "num_patients": 53,
+                "ratio": 0.28191489361702127
+            },
+            {
+                "date": "2020-09-03",
+                "hospital_capacity": 188,
+                "num_patients": 51,
+                "ratio": 0.2712765957446808
+            },
+            {
+                "date": "2020-09-04",
+                "hospital_capacity": 188,
+                "num_patients": 49,
+                "ratio": 0.26063829787234044
+            },
+            {
+                "date": "2020-09-05",
+                "hospital_capacity": 188,
+                "num_patients": 47,
+                "ratio": 0.25
+            },
+            {
+                "date": "2020-09-06",
+                "hospital_capacity": 188,
+                "num_patients": 47,
+                "ratio": 0.25
+            },
+            {
+                "date": "2020-09-07",
+                "hospital_capacity": 188,
+                "num_patients": 46,
+                "ratio": 0.24468085106382978
+            },
+            {
+                "date": "2020-09-08",
+                "hospital_capacity": 188,
+                "num_patients": 44,
+                "ratio": 0.23404255319148937
+            },
+            {
+                "date": "2020-09-09",
+                "hospital_capacity": 188,
+                "num_patients": 42,
+                "ratio": 0.22340425531914893
+            },
+            {
+                "date": "2020-09-10",
+                "hospital_capacity": 188,
+                "num_patients": 40,
+                "ratio": 0.2127659574468085
+            },
+            {
+                "date": "2020-09-11",
+                "hospital_capacity": 188,
+                "num_patients": 35,
+                "ratio": 0.18617021276595744
+            },
+            {
+                "date": "2020-09-12",
+                "hospital_capacity": 188,
+                "num_patients": 34,
+                "ratio": 0.18085106382978725
+            },
+            {
+                "date": "2020-09-13",
+                "hospital_capacity": 188,
+                "num_patients": 36,
+                "ratio": 0.19148936170212766
+            },
+            {
+                "date": "2020-09-14",
+                "hospital_capacity": 188,
+                "num_patients": 36,
+                "ratio": 0.19148936170212766
+            },
+            {
+                "date": "2020-09-15",
+                "hospital_capacity": 188,
+                "num_patients": 35,
+                "ratio": 0.18617021276595744
+            },
+            {
+                "date": "2020-09-16",
+                "hospital_capacity": 188,
+                "num_patients": 28,
+                "ratio": 0.14893617021276595
+            },
+            {
+                "date": "2020-09-17",
+                "hospital_capacity": 188,
+                "num_patients": 31,
+                "ratio": 0.16489361702127658
+            },
+            {
+                "date": "2020-09-18",
+                "hospital_capacity": 188,
+                "num_patients": 30,
+                "ratio": 0.1595744680851064
+            },
+            {
+                "date": "2020-09-19",
+                "hospital_capacity": 188,
+                "num_patients": 29,
+                "ratio": 0.15425531914893617
+            },
+            {
+                "date": "2020-09-20",
+                "hospital_capacity": 188,
+                "num_patients": 29,
+                "ratio": 0.15425531914893617
+            },
+            {
+                "date": "2020-09-21",
+                "hospital_capacity": 188,
+                "num_patients": 29,
+                "ratio": 0.15425531914893617
+            },
+            {
+                "date": "2020-09-22",
+                "hospital_capacity": 188,
+                "num_patients": 29,
+                "ratio": 0.15425531914893617
+            },
+            {
+                "date": "2020-09-23",
+                "hospital_capacity": 188,
+                "num_patients": 28,
+                "ratio": 0.14893617021276595
+            },
+            {
+                "date": "2020-09-24",
+                "hospital_capacity": 188,
+                "num_patients": 30,
+                "ratio": 0.1595744680851064
+            },
+            {
+                "date": "2020-09-25",
+                "hospital_capacity": 188,
+                "num_patients": 29,
+                "ratio": 0.15425531914893617
+            },
+            {
+                "date": "2020-09-26",
+                "hospital_capacity": 188,
+                "num_patients": 30,
+                "ratio": 0.1595744680851064
+            },
+            {
+                "date": "2020-09-27",
+                "hospital_capacity": 188,
+                "num_patients": 30,
+                "ratio": 0.1595744680851064
+            },
+            {
+                "date": "2020-09-28",
+                "hospital_capacity": 188,
+                "num_patients": 30,
+                "ratio": 0.1595744680851064
+            },
+            {
+                "date": "2020-09-29",
+                "hospital_capacity": 188,
+                "num_patients": 27,
+                "ratio": 0.14361702127659576
+            },
+            {
+                "date": "2020-09-30",
+                "hospital_capacity": 188,
+                "num_patients": 27,
+                "ratio": 0.14361702127659576
+            },
+            {
+                "date": "2020-10-01",
+                "hospital_capacity": 188,
+                "num_patients": 24,
+                "ratio": 0.1276595744680851
+            },
+            {
+                "date": "2020-10-02",
+                "hospital_capacity": 188,
+                "num_patients": 24,
+                "ratio": 0.1276595744680851
+            },
+            {
+                "date": "2020-10-03",
+                "hospital_capacity": 188,
+                "num_patients": 22,
+                "ratio": 0.11702127659574468
+            },
+            {
+                "date": "2020-10-04",
+                "hospital_capacity": 188,
+                "num_patients": 22,
+                "ratio": 0.11702127659574468
+            },
+            {
+                "date": "2020-10-05",
+                "hospital_capacity": 188,
+                "num_patients": 23,
+                "ratio": 0.12234042553191489
+            },
+            {
+                "date": "2020-10-06",
+                "hospital_capacity": 188,
+                "num_patients": 21,
+                "ratio": 0.11170212765957446
+            },
+            {
+                "date": "2020-10-07",
+                "hospital_capacity": 188,
+                "num_patients": 22,
+                "ratio": 0.11702127659574468
+            },
+            {
+                "date": "2020-10-08",
+                "hospital_capacity": 188,
+                "num_patients": 23,
+                "ratio": 0.12234042553191489
+            },
+            {
+                "date": "2020-10-09",
+                "hospital_capacity": 188,
+                "num_patients": 23,
+                "ratio": 0.12234042553191489
+            },
+            {
+                "date": "2020-10-10",
+                "hospital_capacity": 188,
+                "num_patients": 23,
+                "ratio": 0.12234042553191489
+            },
+            {
+                "date": "2020-10-11",
+                "hospital_capacity": 188,
+                "num_patients": 24,
+                "ratio": 0.1276595744680851
+            },
+            {
+                "date": "2020-10-12",
+                "hospital_capacity": 188,
+                "num_patients": 22,
+                "ratio": 0.11702127659574468
+            },
+            {
+                "date": "2020-10-13",
+                "hospital_capacity": 188,
+                "num_patients": 21,
+                "ratio": 0.11170212765957446
+            },
+            {
+                "date": "2020-10-14",
+                "hospital_capacity": 188,
+                "num_patients": 21,
+                "ratio": 0.11170212765957446
+            },
+            {
+                "date": "2020-10-15",
+                "hospital_capacity": 206,
+                "num_patients": 21,
+                "ratio": 0.10194174757281553
+            },
+            {
+                "date": "2020-10-16",
+                "hospital_capacity": 206,
+                "num_patients": 19,
+                "ratio": 0.09223300970873786
+            },
+            {
+                "date": "2020-10-17",
+                "hospital_capacity": 206,
+                "num_patients": 19,
+                "ratio": 0.09223300970873786
+            },
+            {
+                "date": "2020-10-18",
+                "hospital_capacity": 206,
+                "num_patients": 20,
+                "ratio": 0.0970873786407767
+            },
+            {
+                "date": "2020-10-19",
+                "hospital_capacity": 206,
+                "num_patients": 16,
+                "ratio": 0.07766990291262135
+            },
+            {
+                "date": "2020-10-20",
+                "hospital_capacity": 206,
+                "num_patients": 19,
+                "ratio": 0.09223300970873786
+            },
+            {
+                "date": "2020-10-21",
+                "hospital_capacity": 206,
+                "num_patients": 19,
+                "ratio": 0.09223300970873786
+            },
+            {
+                "date": "2020-10-22",
+                "hospital_capacity": 206,
+                "num_patients": 22,
+                "ratio": 0.10679611650485436
+            },
+            {
+                "date": "2020-10-23",
+                "hospital_capacity": 206,
+                "num_patients": 22,
+                "ratio": 0.10679611650485436
+            },
+            {
+                "date": "2020-10-24",
+                "hospital_capacity": 206,
+                "num_patients": 23,
+                "ratio": 0.11165048543689321
+            },
+            {
+                "date": "2020-10-25",
+                "hospital_capacity": 206,
+                "num_patients": 23,
+                "ratio": 0.11165048543689321
+            },
+            {
+                "date": "2020-10-26",
+                "hospital_capacity": 206,
+                "num_patients": 26,
+                "ratio": 0.1262135922330097
+            },
+            {
+                "date": "2020-10-27",
+                "hospital_capacity": 206,
+                "num_patients": 26,
+                "ratio": 0.1262135922330097
+            },
+            {
+                "date": "2020-10-28",
+                "hospital_capacity": 206,
+                "num_patients": 25,
+                "ratio": 0.12135922330097088
+            },
+            {
+                "date": "2020-10-29",
+                "hospital_capacity": 206,
+                "num_patients": 25,
+                "ratio": 0.12135922330097088
+            },
+            {
+                "date": "2020-10-30",
+                "hospital_capacity": 206,
+                "num_patients": 26,
+                "ratio": 0.1262135922330097
+            },
+            {
+                "date": "2020-10-31",
+                "hospital_capacity": 206,
+                "num_patients": 25,
+                "ratio": 0.12135922330097088
+            },
+            {
+                "date": "2020-11-01",
+                "hospital_capacity": 206,
+                "num_patients": 26,
+                "ratio": 0.1262135922330097
+            },
+            {
+                "date": "2020-11-02",
+                "hospital_capacity": 206,
+                "num_patients": 31,
+                "ratio": 0.15048543689320387
+            },
+            {
+                "date": "2020-11-03",
+                "hospital_capacity": 206,
+                "num_patients": 32,
+                "ratio": 0.1553398058252427
+            },
+            {
+                "date": "2020-11-04",
+                "hospital_capacity": 206,
+                "num_patients": 37,
+                "ratio": 0.1796116504854369
+            },
+            {
+                "date": "2020-11-05",
+                "hospital_capacity": 206,
+                "num_patients": 40,
+                "ratio": 0.1941747572815534
+            },
+            {
+                "date": "2020-11-06",
+                "hospital_capacity": 206,
+                "num_patients": 42,
+                "ratio": 0.20388349514563106
+            },
+            {
+                "date": "2020-11-07",
+                "hospital_capacity": 206,
+                "num_patients": 43,
+                "ratio": 0.2087378640776699
+            },
+            {
+                "date": "2020-11-08",
+                "hospital_capacity": 206,
+                "num_patients": 46,
+                "ratio": 0.22330097087378642
+            },
+            {
+                "date": "2020-11-09",
+                "hospital_capacity": 206,
+                "num_patients": 51,
+                "ratio": 0.24757281553398058
+            },
+            {
+                "date": "2020-11-10",
+                "hospital_capacity": 206,
+                "num_patients": 58,
+                "ratio": 0.2815533980582524
+            },
+            {
+                "date": "2020-11-11",
+                "hospital_capacity": 206,
+                "num_patients": 63,
+                "ratio": 0.3058252427184466
+            },
+            {
+                "date": "2020-11-12",
+                "hospital_capacity": 206,
+                "num_patients": 60,
+                "ratio": 0.2912621359223301
+            },
+            {
+                "date": "2020-11-13",
+                "hospital_capacity": 206,
+                "num_patients": 58,
+                "ratio": 0.2815533980582524
+            },
+            {
+                "date": "2020-11-14",
+                "hospital_capacity": 206,
+                "num_patients": 62,
+                "ratio": 0.30097087378640774
+            },
+            {
+                "date": "2020-11-15",
+                "hospital_capacity": 206,
+                "num_patients": 66,
+                "ratio": 0.32038834951456313
+            },
+            {
+                "date": "2020-11-16",
+                "hospital_capacity": 206,
+                "num_patients": 72,
+                "ratio": 0.34951456310679613
+            },
+            {
+                "date": "2020-11-17",
+                "hospital_capacity": 206,
+                "num_patients": 69,
+                "ratio": 0.33495145631067963
+            },
+            {
+                "date": "2020-11-18",
+                "hospital_capacity": 206,
+                "num_patients": 72,
+                "ratio": 0.34951456310679613
+            },
+            {
+                "date": "2020-11-19",
+                "hospital_capacity": 206,
+                "num_patients": 76,
+                "ratio": 0.36893203883495146
+            },
+            {
+                "date": "2020-11-20",
+                "hospital_capacity": 206,
+                "num_patients": 81,
+                "ratio": 0.3932038834951456
+            },
+            {
+                "date": "2020-11-21",
+                "hospital_capacity": 206,
+                "num_patients": 87,
+                "ratio": 0.4223300970873786
+            },
+            {
+                "date": "2020-11-22",
+                "hospital_capacity": 206,
+                "num_patients": 91,
+                "ratio": 0.441747572815534
+            },
+            {
+                "date": "2020-11-23",
+                "hospital_capacity": 206,
+                "num_patients": 98,
+                "ratio": 0.47572815533980584
+            },
+            {
+                "date": "2020-11-24",
+                "hospital_capacity": 206,
+                "num_patients": 103,
+                "ratio": 0.5
+            },
+            {
+                "date": "2020-11-25",
+                "hospital_capacity": 206,
+                "num_patients": 107,
+                "ratio": 0.5194174757281553
+            },
+            {
+                "date": "2020-11-26",
+                "hospital_capacity": 206,
+                "num_patients": 108,
+                "ratio": 0.5242718446601942
+            },
+            {
+                "date": "2020-11-27",
+                "hospital_capacity": 206,
+                "num_patients": 107,
+                "ratio": 0.5194174757281553
+            },
+            {
+                "date": "2020-11-28",
+                "hospital_capacity": 206,
+                "num_patients": 107,
+                "ratio": 0.5194174757281553
+            },
+            {
+                "date": "2020-11-29",
+                "hospital_capacity": 206,
+                "num_patients": 110,
+                "ratio": 0.5339805825242718
+            },
+            {
+                "date": "2020-11-30",
+                "hospital_capacity": 206,
+                "num_patients": 124,
+                "ratio": 0.6019417475728155
+            },
+            {
+                "date": "2020-12-01",
+                "hospital_capacity": 206,
+                "num_patients": 125,
+                "ratio": 0.6067961165048543
+            },
+            {
+                "date": "2020-12-02",
+                "hospital_capacity": 206,
+                "num_patients": 131,
+                "ratio": 0.6359223300970874
+            },
+            {
+                "date": "2020-12-03",
+                "hospital_capacity": 206,
+                "num_patients": 136,
+                "ratio": 0.6601941747572816
+            },
+            {
+                "date": "2020-12-04",
+                "hospital_capacity": 206,
+                "num_patients": 139,
+                "ratio": 0.6747572815533981
+            },
+            {
+                "date": "2020-12-05",
+                "hospital_capacity": 206,
+                "num_patients": 132,
+                "ratio": 0.6407766990291263
+            },
+            {
+                "date": "2020-12-06",
+                "hospital_capacity": 206,
+                "num_patients": 141,
+                "ratio": 0.6844660194174758
+            },
+            {
+                "date": "2020-12-07",
+                "hospital_capacity": 206,
+                "num_patients": 141,
+                "ratio": 0.6844660194174758
+            },
+            {
+                "date": "2020-12-08",
+                "hospital_capacity": 206,
+                "num_patients": 146,
+                "ratio": 0.7087378640776699
+            },
+            {
+                "date": "2020-12-09",
+                "hospital_capacity": 206,
+                "num_patients": 147,
+                "ratio": 0.7135922330097088
+            },
+            {
+                "date": "2020-12-10",
+                "hospital_capacity": 206,
+                "num_patients": 150,
+                "ratio": 0.7281553398058253
+            },
+            {
+                "date": "2020-12-11",
+                "hospital_capacity": 206,
+                "num_patients": 155,
+                "ratio": 0.7524271844660194
+            },
+            {
+                "date": "2020-12-12",
+                "hospital_capacity": 206,
+                "num_patients": 152,
+                "ratio": 0.7378640776699029
+            },
+            {
+                "date": "2020-12-13",
+                "hospital_capacity": 206,
+                "num_patients": 158,
+                "ratio": 0.7669902912621359
+            },
+            {
+                "date": "2020-12-14",
+                "hospital_capacity": 206,
+                "num_patients": 156,
+                "ratio": 0.7572815533980582
+            },
+            {
+                "date": "2020-12-15",
+                "hospital_capacity": 236,
+                "num_patients": 158,
+                "ratio": 0.6694915254237288
+            }
+        ],
+        "mild_moderate": [
+            {
+                "date": "2020-04-23",
+                "hospital_capacity": 656,
+                "num_patients": 539,
+                "ratio": 0.8216463414634146
+            },
+            {
+                "date": "2020-04-24",
+                "hospital_capacity": 717,
+                "num_patients": 520,
+                "ratio": 0.7252440725244073
+            },
+            {
+                "date": "2020-04-25",
+                "hospital_capacity": 717,
+                "num_patients": 520,
+                "ratio": 0.7252440725244073
+            },
+            {
+                "date": "2020-04-26",
+                "hospital_capacity": 717,
+                "num_patients": 502,
+                "ratio": 0.700139470013947
+            },
+            {
+                "date": "2020-04-27",
+                "hospital_capacity": 808,
+                "num_patients": 510,
+                "ratio": 0.6311881188118812
+            },
+            {
+                "date": "2020-04-28",
+                "hospital_capacity": 809,
+                "num_patients": 461,
+                "ratio": 0.5698393077873919
+            },
+            {
+                "date": "2020-04-29",
+                "hospital_capacity": 809,
+                "num_patients": 459,
+                "ratio": 0.5673671199011124
+            },
+            {
+                "date": "2020-04-30",
+                "hospital_capacity": 809,
+                "num_patients": 461,
+                "ratio": 0.5698393077873919
+            },
+            {
+                "date": "2020-05-01",
+                "hospital_capacity": 882,
+                "num_patients": 445,
+                "ratio": 0.5045351473922902
+            },
+            {
+                "date": "2020-05-02",
+                "hospital_capacity": 882,
+                "num_patients": 427,
+                "ratio": 0.48412698412698413
+            },
+            {
+                "date": "2020-05-03",
+                "hospital_capacity": 915,
+                "num_patients": 425,
+                "ratio": 0.4644808743169399
+            },
+            {
+                "date": "2020-05-04",
+                "hospital_capacity": 915,
+                "num_patients": 419,
+                "ratio": 0.45792349726775955
+            },
+            {
+                "date": "2020-05-05",
+                "hospital_capacity": 915,
+                "num_patients": 406,
+                "ratio": 0.44371584699453553
+            },
+            {
+                "date": "2020-05-06",
+                "hospital_capacity": 915,
+                "num_patients": 401,
+                "ratio": 0.4382513661202186
+            },
+            {
+                "date": "2020-05-07",
+                "hospital_capacity": 920,
+                "num_patients": 388,
+                "ratio": 0.4217391304347826
+            },
+            {
+                "date": "2020-05-08",
+                "hospital_capacity": 920,
+                "num_patients": 354,
+                "ratio": 0.3847826086956522
+            },
+            {
+                "date": "2020-05-09",
+                "hospital_capacity": 920,
+                "num_patients": 368,
+                "ratio": 0.4
+            },
+            {
+                "date": "2020-05-10",
+                "hospital_capacity": 920,
+                "num_patients": 369,
+                "ratio": 0.40108695652173915
+            },
+            {
+                "date": "2020-05-11",
+                "hospital_capacity": 940,
+                "num_patients": 335,
+                "ratio": 0.35638297872340424
+            },
+            {
+                "date": "2020-05-12",
+                "hospital_capacity": 940,
+                "num_patients": 324,
+                "ratio": 0.3446808510638298
+            },
+            {
+                "date": "2020-05-13",
+                "hospital_capacity": 940,
+                "num_patients": 310,
+                "ratio": 0.32978723404255317
+            },
+            {
+                "date": "2020-05-14",
+                "hospital_capacity": 945,
+                "num_patients": 294,
+                "ratio": 0.3111111111111111
+            },
+            {
+                "date": "2020-05-15",
+                "hospital_capacity": 945,
+                "num_patients": 288,
+                "ratio": 0.3047619047619048
+            },
+            {
+                "date": "2020-05-16",
+                "hospital_capacity": 945,
+                "num_patients": 280,
+                "ratio": 0.2962962962962963
+            },
+            {
+                "date": "2020-05-17",
+                "hospital_capacity": 945,
+                "num_patients": 269,
+                "ratio": 0.28465608465608466
+            },
+            {
+                "date": "2020-05-18",
+                "hospital_capacity": 945,
+                "num_patients": 262,
+                "ratio": 0.27724867724867724
+            },
+            {
+                "date": "2020-05-19",
+                "hospital_capacity": 965,
+                "num_patients": 236,
+                "ratio": 0.24455958549222798
+            },
+            {
+                "date": "2020-05-20",
+                "hospital_capacity": 965,
+                "num_patients": 206,
+                "ratio": 0.21347150259067357
+            },
+            {
+                "date": "2020-05-21",
+                "hospital_capacity": 965,
+                "num_patients": 195,
+                "ratio": 0.20207253886010362
+            },
+            {
+                "date": "2020-05-22",
+                "hospital_capacity": 984,
+                "num_patients": 167,
+                "ratio": 0.16971544715447154
+            },
+            {
+                "date": "2020-05-23",
+                "hospital_capacity": 984,
+                "num_patients": 161,
+                "ratio": 0.16361788617886178
+            },
+            {
+                "date": "2020-05-24",
+                "hospital_capacity": 984,
+                "num_patients": 156,
+                "ratio": 0.15853658536585366
+            },
+            {
+                "date": "2020-05-25",
+                "hospital_capacity": 984,
+                "num_patients": 144,
+                "ratio": 0.14634146341463414
+            },
+            {
+                "date": "2020-05-26",
+                "hospital_capacity": 991,
+                "num_patients": 121,
+                "ratio": 0.12209889001009082
+            },
+            {
+                "date": "2020-05-27",
+                "hospital_capacity": 991,
+                "num_patients": 106,
+                "ratio": 0.10696266397578204
+            },
+            {
+                "date": "2020-05-28",
+                "hospital_capacity": 991,
+                "num_patients": 100,
+                "ratio": 0.10090817356205853
+            },
+            {
+                "date": "2020-05-29",
+                "hospital_capacity": 991,
+                "num_patients": 92,
+                "ratio": 0.09283551967709384
+            },
+            {
+                "date": "2020-05-30",
+                "hospital_capacity": 991,
+                "num_patients": 90,
+                "ratio": 0.09081735620585267
+            },
+            {
+                "date": "2020-05-31",
+                "hospital_capacity": 991,
+                "num_patients": 88,
+                "ratio": 0.08879919273461151
+            },
+            {
+                "date": "2020-06-01",
+                "hospital_capacity": 991,
+                "num_patients": 70,
+                "ratio": 0.07063572149344097
+            },
+            {
+                "date": "2020-06-02",
+                "hospital_capacity": 991,
+                "num_patients": 63,
+                "ratio": 0.06357214934409687
+            },
+            {
+                "date": "2020-06-03",
+                "hospital_capacity": 991,
+                "num_patients": 58,
+                "ratio": 0.05852674066599395
+            },
+            {
+                "date": "2020-06-04",
+                "hospital_capacity": 991,
+                "num_patients": 53,
+                "ratio": 0.05348133198789102
+            },
+            {
+                "date": "2020-06-05",
+                "hospital_capacity": 1013,
+                "num_patients": 50,
+                "ratio": 0.049358341559723594
+            },
+            {
+                "date": "2020-06-06",
+                "hospital_capacity": 1013,
+                "num_patients": 47,
+                "ratio": 0.04639684106614018
+            },
+            {
+                "date": "2020-06-07",
+                "hospital_capacity": 1013,
+                "num_patients": 48,
+                "ratio": 0.04738400789733465
+            },
+            {
+                "date": "2020-06-08",
+                "hospital_capacity": 1037,
+                "num_patients": 42,
+                "ratio": 0.040501446480231434
+            },
+            {
+                "date": "2020-06-09",
+                "hospital_capacity": 1037,
+                "num_patients": 34,
+                "ratio": 0.03278688524590164
+            },
+            {
+                "date": "2020-06-10",
+                "hospital_capacity": 1037,
+                "num_patients": 27,
+                "ratio": 0.026036644165863067
+            },
+            {
+                "date": "2020-06-11",
+                "hospital_capacity": 1037,
+                "num_patients": 22,
+                "ratio": 0.021215043394406944
+            },
+            {
+                "date": "2020-06-12",
+                "hospital_capacity": 1037,
+                "num_patients": 21,
+                "ratio": 0.020250723240115717
+            },
+            {
+                "date": "2020-06-13",
+                "hospital_capacity": 1037,
+                "num_patients": 18,
+                "ratio": 0.017357762777242044
+            },
+            {
+                "date": "2020-06-14",
+                "hospital_capacity": 1037,
+                "num_patients": 17,
+                "ratio": 0.01639344262295082
+            },
+            {
+                "date": "2020-06-15",
+                "hospital_capacity": 1037,
+                "num_patients": 17,
+                "ratio": 0.01639344262295082
+            },
+            {
+                "date": "2020-06-16",
+                "hospital_capacity": 1037,
+                "num_patients": 19,
+                "ratio": 0.01832208293153327
+            },
+            {
+                "date": "2020-06-17",
+                "hospital_capacity": 1037,
+                "num_patients": 18,
+                "ratio": 0.017357762777242044
+            },
+            {
+                "date": "2020-06-18",
+                "hospital_capacity": 1037,
+                "num_patients": 22,
+                "ratio": 0.021215043394406944
+            },
+            {
+                "date": "2020-06-19",
+                "hospital_capacity": 1037,
+                "num_patients": 24,
+                "ratio": 0.023143683702989394
+            },
+            {
+                "date": "2020-06-20",
+                "hospital_capacity": 1037,
+                "num_patients": 26,
+                "ratio": 0.02507232401157184
+            },
+            {
+                "date": "2020-06-21",
+                "hospital_capacity": 1037,
+                "num_patients": 26,
+                "ratio": 0.02507232401157184
+            },
+            {
+                "date": "2020-06-22",
+                "hospital_capacity": 1059,
+                "num_patients": 27,
+                "ratio": 0.025495750708215296
+            },
+            {
+                "date": "2020-06-23",
+                "hospital_capacity": 1059,
+                "num_patients": 25,
+                "ratio": 0.023607176581680833
+            },
+            {
+                "date": "2020-06-24",
+                "hospital_capacity": 1059,
+                "num_patients": 21,
+                "ratio": 0.019830028328611898
+            },
+            {
+                "date": "2020-06-25",
+                "hospital_capacity": 1059,
+                "num_patients": 20,
+                "ratio": 0.018885741265344664
+            },
+            {
+                "date": "2020-06-26",
+                "hospital_capacity": 1059,
+                "num_patients": 19,
+                "ratio": 0.01794145420207743
+            },
+            {
+                "date": "2020-06-27",
+                "hospital_capacity": 1059,
+                "num_patients": 17,
+                "ratio": 0.016052880075542966
+            },
+            {
+                "date": "2020-06-28",
+                "hospital_capacity": 1059,
+                "num_patients": 18,
+                "ratio": 0.0169971671388102
+            },
+            {
+                "date": "2020-06-29",
+                "hospital_capacity": 1064,
+                "num_patients": 23,
+                "ratio": 0.021616541353383457
+            },
+            {
+                "date": "2020-06-30",
+                "hospital_capacity": 1064,
+                "num_patients": 20,
+                "ratio": 0.018796992481203006
+            },
+            {
+                "date": "2020-07-01",
+                "hospital_capacity": 1064,
+                "num_patients": 25,
+                "ratio": 0.023496240601503758
+            },
+            {
+                "date": "2020-07-02",
+                "hospital_capacity": 1064,
+                "num_patients": 27,
+                "ratio": 0.02537593984962406
+            },
+            {
+                "date": "2020-07-03",
+                "hospital_capacity": 1064,
+                "num_patients": 32,
+                "ratio": 0.03007518796992481
+            },
+            {
+                "date": "2020-07-04",
+                "hospital_capacity": 1064,
+                "num_patients": 42,
+                "ratio": 0.039473684210526314
+            },
+            {
+                "date": "2020-07-05",
+                "hospital_capacity": 1064,
+                "num_patients": 41,
+                "ratio": 0.03853383458646616
+            },
+            {
+                "date": "2020-07-06",
+                "hospital_capacity": 1064,
+                "num_patients": 41,
+                "ratio": 0.03853383458646616
+            },
+            {
+                "date": "2020-07-07",
+                "hospital_capacity": 1065,
+                "num_patients": 43,
+                "ratio": 0.04037558685446009
+            },
+            {
+                "date": "2020-07-08",
+                "hospital_capacity": 1065,
+                "num_patients": 52,
+                "ratio": 0.048826291079812206
+            },
+            {
+                "date": "2020-07-09",
+                "hospital_capacity": 1065,
+                "num_patients": 68,
+                "ratio": 0.06384976525821597
+            },
+            {
+                "date": "2020-07-10",
+                "hospital_capacity": 1065,
+                "num_patients": 60,
+                "ratio": 0.056338028169014086
+            },
+            {
+                "date": "2020-07-11",
+                "hospital_capacity": 1065,
+                "num_patients": 75,
+                "ratio": 0.07042253521126761
+            },
+            {
+                "date": "2020-07-12",
+                "hospital_capacity": 1065,
+                "num_patients": 96,
+                "ratio": 0.09014084507042254
+            },
+            {
+                "date": "2020-07-13",
+                "hospital_capacity": 1066,
+                "num_patients": 97,
+                "ratio": 0.09099437148217636
+            },
+            {
+                "date": "2020-07-14",
+                "hospital_capacity": 1066,
+                "num_patients": 82,
+                "ratio": 0.07692307692307693
+            },
+            {
+                "date": "2020-07-15",
+                "hospital_capacity": 1066,
+                "num_patients": 76,
+                "ratio": 0.07129455909943715
+            },
+            {
+                "date": "2020-07-16",
+                "hospital_capacity": 1066,
+                "num_patients": 90,
+                "ratio": 0.08442776735459662
+            },
+            {
+                "date": "2020-07-17",
+                "hospital_capacity": 1066,
+                "num_patients": 113,
+                "ratio": 0.10600375234521577
+            },
+            {
+                "date": "2020-07-18",
+                "hospital_capacity": 1066,
+                "num_patients": 127,
+                "ratio": 0.11913696060037524
+            },
+            {
+                "date": "2020-07-19",
+                "hospital_capacity": 1066,
+                "num_patients": 152,
+                "ratio": 0.1425891181988743
+            },
+            {
+                "date": "2020-07-20",
+                "hospital_capacity": 1069,
+                "num_patients": 194,
+                "ratio": 0.1814780168381665
+            },
+            {
+                "date": "2020-07-21",
+                "hospital_capacity": 1069,
+                "num_patients": 194,
+                "ratio": 0.1814780168381665
+            },
+            {
+                "date": "2020-07-22",
+                "hospital_capacity": 1069,
+                "num_patients": 205,
+                "ratio": 0.19176800748362957
+            },
+            {
+                "date": "2020-07-23",
+                "hospital_capacity": 1069,
+                "num_patients": 207,
+                "ratio": 0.19363891487371376
+            },
+            {
+                "date": "2020-07-24",
+                "hospital_capacity": 1069,
+                "num_patients": 258,
+                "ratio": 0.24134705332086062
+            },
+            {
+                "date": "2020-07-25",
+                "hospital_capacity": 1069,
+                "num_patients": 241,
+                "ratio": 0.225444340505145
+            },
+            {
+                "date": "2020-07-26",
+                "hospital_capacity": 1069,
+                "num_patients": 252,
+                "ratio": 0.23573433115060805
+            },
+            {
+                "date": "2020-07-27",
+                "hospital_capacity": 1069,
+                "num_patients": 258,
+                "ratio": 0.24134705332086062
+            },
+            {
+                "date": "2020-07-28",
+                "hospital_capacity": 1069,
+                "num_patients": 258,
+                "ratio": 0.24134705332086062
+            },
+            {
+                "date": "2020-07-29",
+                "hospital_capacity": 1069,
+                "num_patients": 259,
+                "ratio": 0.2422825070159027
+            },
+            {
+                "date": "2020-07-30",
+                "hospital_capacity": 1069,
+                "num_patients": 245,
+                "ratio": 0.2291861552853134
+            },
+            {
+                "date": "2020-07-31",
+                "hospital_capacity": 1069,
+                "num_patients": 275,
+                "ratio": 0.25724976613657624
+            },
+            {
+                "date": "2020-08-01",
+                "hospital_capacity": 1069,
+                "num_patients": 288,
+                "ratio": 0.2694106641721235
+            },
+            {
+                "date": "2020-08-02",
+                "hospital_capacity": 1069,
+                "num_patients": 341,
+                "ratio": 0.31898971000935455
+            },
+            {
+                "date": "2020-08-03",
+                "hospital_capacity": 1069,
+                "num_patients": 346,
+                "ratio": 0.323666978484565
+            },
+            {
+                "date": "2020-08-04",
+                "hospital_capacity": 1069,
+                "num_patients": 346,
+                "ratio": 0.323666978484565
+            },
+            {
+                "date": "2020-08-05",
+                "hospital_capacity": 1069,
+                "num_patients": 334,
+                "ratio": 0.3124415341440599
+            },
+            {
+                "date": "2020-08-06",
+                "hospital_capacity": 1069,
+                "num_patients": 359,
+                "ratio": 0.33582787652011226
+            },
+            {
+                "date": "2020-08-07",
+                "hospital_capacity": 1069,
+                "num_patients": 353,
+                "ratio": 0.3302151543498597
+            },
+            {
+                "date": "2020-08-08",
+                "hospital_capacity": 1069,
+                "num_patients": 387,
+                "ratio": 0.36202057998129095
+            },
+            {
+                "date": "2020-08-09",
+                "hospital_capacity": 1069,
+                "num_patients": 411,
+                "ratio": 0.3844714686623012
+            },
+            {
+                "date": "2020-08-10",
+                "hospital_capacity": 1069,
+                "num_patients": 436,
+                "ratio": 0.4078578110383536
+            },
+            {
+                "date": "2020-08-11",
+                "hospital_capacity": 1069,
+                "num_patients": 424,
+                "ratio": 0.39663236669784846
+            },
+            {
+                "date": "2020-08-12",
+                "hospital_capacity": 1069,
+                "num_patients": 430,
+                "ratio": 0.402245088868101
+            },
+            {
+                "date": "2020-08-13",
+                "hospital_capacity": 1069,
+                "num_patients": 437,
+                "ratio": 0.4087932647333957
+            },
+            {
+                "date": "2020-08-14",
+                "hospital_capacity": 1069,
+                "num_patients": 428,
+                "ratio": 0.40037418147801684
+            },
+            {
+                "date": "2020-08-15",
+                "hospital_capacity": 1069,
+                "num_patients": 461,
+                "ratio": 0.431244153414406
+            },
+            {
+                "date": "2020-08-16",
+                "hospital_capacity": 1069,
+                "num_patients": 479,
+                "ratio": 0.44808231992516373
+            },
+            {
+                "date": "2020-08-17",
+                "hospital_capacity": 1069,
+                "num_patients": 473,
+                "ratio": 0.4424695977549111
+            },
+            {
+                "date": "2020-08-18",
+                "hospital_capacity": 1068,
+                "num_patients": 496,
+                "ratio": 0.46441947565543074
+            },
+            {
+                "date": "2020-08-19",
+                "hospital_capacity": 1068,
+                "num_patients": 512,
+                "ratio": 0.4794007490636704
+            },
+            {
+                "date": "2020-08-20",
+                "hospital_capacity": 1068,
+                "num_patients": 510,
+                "ratio": 0.47752808988764045
+            },
+            {
+                "date": "2020-08-21",
+                "hospital_capacity": 1068,
+                "num_patients": 512,
+                "ratio": 0.4794007490636704
+            },
+            {
+                "date": "2020-08-22",
+                "hospital_capacity": 1068,
+                "num_patients": 503,
+                "ratio": 0.47097378277153557
+            },
+            {
+                "date": "2020-08-23",
+                "hospital_capacity": 1068,
+                "num_patients": 506,
+                "ratio": 0.4737827715355805
+            },
+            {
+                "date": "2020-08-24",
+                "hospital_capacity": 1068,
+                "num_patients": 503,
+                "ratio": 0.47097378277153557
+            },
+            {
+                "date": "2020-08-25",
+                "hospital_capacity": 1068,
+                "num_patients": 411,
+                "ratio": 0.3848314606741573
+            },
+            {
+                "date": "2020-08-26",
+                "hospital_capacity": 1082,
+                "num_patients": 407,
+                "ratio": 0.37615526802218113
+            },
+            {
+                "date": "2020-08-27",
+                "hospital_capacity": 1082,
+                "num_patients": 424,
+                "ratio": 0.39186691312384475
+            },
+            {
+                "date": "2020-08-28",
+                "hospital_capacity": 1092,
+                "num_patients": 427,
+                "ratio": 0.391025641025641
+            },
+            {
+                "date": "2020-08-29",
+                "hospital_capacity": 1092,
+                "num_patients": 428,
+                "ratio": 0.39194139194139194
+            },
+            {
+                "date": "2020-08-30",
+                "hospital_capacity": 1092,
+                "num_patients": 436,
+                "ratio": 0.3992673992673993
+            },
+            {
+                "date": "2020-08-31",
+                "hospital_capacity": 1094,
+                "num_patients": 430,
+                "ratio": 0.3930530164533821
+            },
+            {
+                "date": "2020-09-01",
+                "hospital_capacity": 1094,
+                "num_patients": 427,
+                "ratio": 0.3903107861060329
+            },
+            {
+                "date": "2020-09-02",
+                "hospital_capacity": 1094,
+                "num_patients": 434,
+                "ratio": 0.396709323583181
+            },
+            {
+                "date": "2020-09-03",
+                "hospital_capacity": 1094,
+                "num_patients": 432,
+                "ratio": 0.39488117001828155
+            },
+            {
+                "date": "2020-09-04",
+                "hospital_capacity": 1094,
+                "num_patients": 410,
+                "ratio": 0.37477148080438755
+            },
+            {
+                "date": "2020-09-05",
+                "hospital_capacity": 1094,
+                "num_patients": 410,
+                "ratio": 0.37477148080438755
+            },
+            {
+                "date": "2020-09-06",
+                "hospital_capacity": 1094,
+                "num_patients": 427,
+                "ratio": 0.3903107861060329
+            },
+            {
+                "date": "2020-09-07",
+                "hospital_capacity": 1094,
+                "num_patients": 414,
+                "ratio": 0.37842778793418647
+            },
+            {
+                "date": "2020-09-08",
+                "hospital_capacity": 1094,
+                "num_patients": 399,
+                "ratio": 0.3647166361974406
+            },
+            {
+                "date": "2020-09-09",
+                "hospital_capacity": 1094,
+                "num_patients": 368,
+                "ratio": 0.33638025594149906
+            },
+            {
+                "date": "2020-09-10",
+                "hospital_capacity": 1094,
+                "num_patients": 365,
+                "ratio": 0.3336380255941499
+            },
+            {
+                "date": "2020-09-11",
+                "hospital_capacity": 1094,
+                "num_patients": 354,
+                "ratio": 0.3235831809872029
+            },
+            {
+                "date": "2020-09-12",
+                "hospital_capacity": 1094,
+                "num_patients": 337,
+                "ratio": 0.3080438756855576
+            },
+            {
+                "date": "2020-09-13",
+                "hospital_capacity": 1094,
+                "num_patients": 341,
+                "ratio": 0.3117001828153565
+            },
+            {
+                "date": "2020-09-14",
+                "hospital_capacity": 1094,
+                "num_patients": 348,
+                "ratio": 0.3180987202925046
+            },
+            {
+                "date": "2020-09-15",
+                "hospital_capacity": 1094,
+                "num_patients": 340,
+                "ratio": 0.31078610603290674
+            },
+            {
+                "date": "2020-09-16",
+                "hospital_capacity": 1094,
+                "num_patients": 332,
+                "ratio": 0.30347349177330896
+            },
+            {
+                "date": "2020-09-17",
+                "hospital_capacity": 1094,
+                "num_patients": 327,
+                "ratio": 0.29890310786106034
+            },
+            {
+                "date": "2020-09-18",
+                "hospital_capacity": 1094,
+                "num_patients": 323,
+                "ratio": 0.2952468007312614
+            },
+            {
+                "date": "2020-09-19",
+                "hospital_capacity": 1094,
+                "num_patients": 328,
+                "ratio": 0.29981718464351004
+            },
+            {
+                "date": "2020-09-20",
+                "hospital_capacity": 1094,
+                "num_patients": 311,
+                "ratio": 0.2842778793418647
+            },
+            {
+                "date": "2020-09-21",
+                "hospital_capacity": 1094,
+                "num_patients": 316,
+                "ratio": 0.28884826325411334
+            },
+            {
+                "date": "2020-09-22",
+                "hospital_capacity": 1094,
+                "num_patients": 321,
+                "ratio": 0.29341864716636196
+            },
+            {
+                "date": "2020-09-23",
+                "hospital_capacity": 1094,
+                "num_patients": 339,
+                "ratio": 0.30987202925045704
+            },
+            {
+                "date": "2020-09-24",
+                "hospital_capacity": 1094,
+                "num_patients": 303,
+                "ratio": 0.27696526508226693
+            },
+            {
+                "date": "2020-09-25",
+                "hospital_capacity": 1094,
+                "num_patients": 289,
+                "ratio": 0.26416819012797077
+            },
+            {
+                "date": "2020-09-26",
+                "hospital_capacity": 1094,
+                "num_patients": 284,
+                "ratio": 0.2595978062157221
+            },
+            {
+                "date": "2020-09-27",
+                "hospital_capacity": 1094,
+                "num_patients": 283,
+                "ratio": 0.2586837294332724
+            },
+            {
+                "date": "2020-09-28",
+                "hospital_capacity": 1094,
+                "num_patients": 288,
+                "ratio": 0.263254113345521
+            },
+            {
+                "date": "2020-09-29",
+                "hospital_capacity": 1094,
+                "num_patients": 274,
+                "ratio": 0.25045703839122485
+            },
+            {
+                "date": "2020-09-30",
+                "hospital_capacity": 1094,
+                "num_patients": 261,
+                "ratio": 0.23857404021937842
+            },
+            {
+                "date": "2020-10-01",
+                "hospital_capacity": 1094,
+                "num_patients": 228,
+                "ratio": 0.20840950639853748
+            },
+            {
+                "date": "2020-10-02",
+                "hospital_capacity": 1094,
+                "num_patients": 215,
+                "ratio": 0.19652650822669104
+            },
+            {
+                "date": "2020-10-03",
+                "hospital_capacity": 1094,
+                "num_patients": 210,
+                "ratio": 0.19195612431444242
+            },
+            {
+                "date": "2020-10-04",
+                "hospital_capacity": 1094,
+                "num_patients": 226,
+                "ratio": 0.20658135283363802
+            },
+            {
+                "date": "2020-10-05",
+                "hospital_capacity": 1094,
+                "num_patients": 215,
+                "ratio": 0.19652650822669104
+            },
+            {
+                "date": "2020-10-06",
+                "hospital_capacity": 1094,
+                "num_patients": 202,
+                "ratio": 0.1846435100548446
+            },
+            {
+                "date": "2020-10-07",
+                "hospital_capacity": 1094,
+                "num_patients": 196,
+                "ratio": 0.17915904936014626
+            },
+            {
+                "date": "2020-10-08",
+                "hospital_capacity": 1094,
+                "num_patients": 187,
+                "ratio": 0.17093235831809872
+            },
+            {
+                "date": "2020-10-09",
+                "hospital_capacity": 1094,
+                "num_patients": 174,
+                "ratio": 0.1590493601462523
+            },
+            {
+                "date": "2020-10-10",
+                "hospital_capacity": 1094,
+                "num_patients": 165,
+                "ratio": 0.15082266910420475
+            },
+            {
+                "date": "2020-10-11",
+                "hospital_capacity": 1094,
+                "num_patients": 174,
+                "ratio": 0.1590493601462523
+            },
+            {
+                "date": "2020-10-12",
+                "hospital_capacity": 1094,
+                "num_patients": 166,
+                "ratio": 0.15173674588665448
+            },
+            {
+                "date": "2020-10-13",
+                "hospital_capacity": 1094,
+                "num_patients": 172,
+                "ratio": 0.15722120658135283
+            },
+            {
+                "date": "2020-10-14",
+                "hospital_capacity": 1094,
+                "num_patients": 176,
+                "ratio": 0.16087751371115175
+            },
+            {
+                "date": "2020-10-15",
+                "hospital_capacity": 1155,
+                "num_patients": 180,
+                "ratio": 0.15584415584415584
+            },
+            {
+                "date": "2020-10-16",
+                "hospital_capacity": 1155,
+                "num_patients": 181,
+                "ratio": 0.15670995670995672
+            },
+            {
+                "date": "2020-10-17",
+                "hospital_capacity": 1155,
+                "num_patients": 176,
+                "ratio": 0.1523809523809524
+            },
+            {
+                "date": "2020-10-18",
+                "hospital_capacity": 1155,
+                "num_patients": 183,
+                "ratio": 0.15844155844155844
+            },
+            {
+                "date": "2020-10-19",
+                "hospital_capacity": 1155,
+                "num_patients": 170,
+                "ratio": 0.1471861471861472
+            },
+            {
+                "date": "2020-10-20",
+                "hospital_capacity": 1155,
+                "num_patients": 152,
+                "ratio": 0.1316017316017316
+            },
+            {
+                "date": "2020-10-21",
+                "hospital_capacity": 1155,
+                "num_patients": 163,
+                "ratio": 0.14112554112554113
+            },
+            {
+                "date": "2020-10-22",
+                "hospital_capacity": 1177,
+                "num_patients": 151,
+                "ratio": 0.12829226847918437
+            },
+            {
+                "date": "2020-10-23",
+                "hospital_capacity": 1177,
+                "num_patients": 198,
+                "ratio": 0.16822429906542055
+            },
+            {
+                "date": "2020-10-24",
+                "hospital_capacity": 1177,
+                "num_patients": 198,
+                "ratio": 0.16822429906542055
+            },
+            {
+                "date": "2020-10-25",
+                "hospital_capacity": 1177,
+                "num_patients": 222,
+                "ratio": 0.18861512319456245
+            },
+            {
+                "date": "2020-10-26",
+                "hospital_capacity": 1179,
+                "num_patients": 225,
+                "ratio": 0.19083969465648856
+            },
+            {
+                "date": "2020-10-27",
+                "hospital_capacity": 1179,
+                "num_patients": 227,
+                "ratio": 0.19253604749787956
+            },
+            {
+                "date": "2020-10-28",
+                "hospital_capacity": 1171,
+                "num_patients": 230,
+                "ratio": 0.1964133219470538
+            },
+            {
+                "date": "2020-10-29",
+                "hospital_capacity": 1171,
+                "num_patients": 258,
+                "ratio": 0.22032450896669514
+            },
+            {
+                "date": "2020-10-30",
+                "hospital_capacity": 1171,
+                "num_patients": 280,
+                "ratio": 0.23911187019641333
+            },
+            {
+                "date": "2020-10-31",
+                "hospital_capacity": 1171,
+                "num_patients": 288,
+                "ratio": 0.24594363791631085
+            },
+            {
+                "date": "2020-11-01",
+                "hospital_capacity": 1171,
+                "num_patients": 303,
+                "ratio": 0.2587532023911187
+            },
+            {
+                "date": "2020-11-02",
+                "hospital_capacity": 1171,
+                "num_patients": 324,
+                "ratio": 0.2766865926558497
+            },
+            {
+                "date": "2020-11-03",
+                "hospital_capacity": 1171,
+                "num_patients": 316,
+                "ratio": 0.2698548249359522
+            },
+            {
+                "date": "2020-11-04",
+                "hospital_capacity": 1171,
+                "num_patients": 331,
+                "ratio": 0.28266438941076005
+            },
+            {
+                "date": "2020-11-05",
+                "hospital_capacity": 1171,
+                "num_patients": 345,
+                "ratio": 0.2946199829205807
+            },
+            {
+                "date": "2020-11-06",
+                "hospital_capacity": 1173,
+                "num_patients": 358,
+                "ratio": 0.3052003410059676
+            },
+            {
+                "date": "2020-11-07",
+                "hospital_capacity": 1173,
+                "num_patients": 376,
+                "ratio": 0.3205456095481671
+            },
+            {
+                "date": "2020-11-08",
+                "hospital_capacity": 1173,
+                "num_patients": 400,
+                "ratio": 0.3410059676044331
+            },
+            {
+                "date": "2020-11-09",
+                "hospital_capacity": 1173,
+                "num_patients": 396,
+                "ratio": 0.3375959079283887
+            },
+            {
+                "date": "2020-11-10",
+                "hospital_capacity": 1185,
+                "num_patients": 371,
+                "ratio": 0.3130801687763713
+            },
+            {
+                "date": "2020-11-11",
+                "hospital_capacity": 1185,
+                "num_patients": 389,
+                "ratio": 0.32827004219409284
+            },
+            {
+                "date": "2020-11-12",
+                "hospital_capacity": 1186,
+                "num_patients": 433,
+                "ratio": 0.3650927487352445
+            },
+            {
+                "date": "2020-11-13",
+                "hospital_capacity": 1186,
+                "num_patients": 412,
+                "ratio": 0.3473861720067454
+            },
+            {
+                "date": "2020-11-14",
+                "hospital_capacity": 1186,
+                "num_patients": 412,
+                "ratio": 0.3473861720067454
+            },
+            {
+                "date": "2020-11-15",
+                "hospital_capacity": 1186,
+                "num_patients": 425,
+                "ratio": 0.35834738617200673
+            },
+            {
+                "date": "2020-11-16",
+                "hospital_capacity": 1199,
+                "num_patients": 475,
+                "ratio": 0.396163469557965
+            },
+            {
+                "date": "2020-11-17",
+                "hospital_capacity": 1199,
+                "num_patients": 502,
+                "ratio": 0.4186822351959967
+            },
+            {
+                "date": "2020-11-18",
+                "hospital_capacity": 1199,
+                "num_patients": 520,
+                "ratio": 0.43369474562135113
+            },
+            {
+                "date": "2020-11-19",
+                "hospital_capacity": 1199,
+                "num_patients": 530,
+                "ratio": 0.44203502919099247
+            },
+            {
+                "date": "2020-11-20",
+                "hospital_capacity": 1199,
+                "num_patients": 536,
+                "ratio": 0.4470391993327773
+            },
+            {
+                "date": "2020-11-21",
+                "hospital_capacity": 1199,
+                "num_patients": 539,
+                "ratio": 0.44954128440366975
+            },
+            {
+                "date": "2020-11-22",
+                "hospital_capacity": 1199,
+                "num_patients": 552,
+                "ratio": 0.4603836530442035
+            },
+            {
+                "date": "2020-11-23",
+                "hospital_capacity": 1199,
+                "num_patients": 650,
+                "ratio": 0.5421184320266889
+            },
+            {
+                "date": "2020-11-24",
+                "hospital_capacity": 1199,
+                "num_patients": 664,
+                "ratio": 0.5537948290241869
+            },
+            {
+                "date": "2020-11-25",
+                "hospital_capacity": 1199,
+                "num_patients": 676,
+                "ratio": 0.5638031693077564
+            },
+            {
+                "date": "2020-11-26",
+                "hospital_capacity": 1199,
+                "num_patients": 647,
+                "ratio": 0.5396163469557965
+            },
+            {
+                "date": "2020-11-27",
+                "hospital_capacity": 1199,
+                "num_patients": 662,
+                "ratio": 0.5521267723102585
+            },
+            {
+                "date": "2020-11-28",
+                "hospital_capacity": 1199,
+                "num_patients": 636,
+                "ratio": 0.530442035029191
+            },
+            {
+                "date": "2020-11-29",
+                "hospital_capacity": 1199,
+                "num_patients": 683,
+                "ratio": 0.5696413678065054
+            },
+            {
+                "date": "2020-11-30",
+                "hospital_capacity": 1226,
+                "num_patients": 695,
+                "ratio": 0.566884176182708
+            },
+            {
+                "date": "2020-12-01",
+                "hospital_capacity": 1226,
+                "num_patients": 674,
+                "ratio": 0.5497553017944535
+            },
+            {
+                "date": "2020-12-02",
+                "hospital_capacity": 1226,
+                "num_patients": 648,
+                "ratio": 0.5285481239804242
+            },
+            {
+                "date": "2020-12-03",
+                "hospital_capacity": 1226,
+                "num_patients": 658,
+                "ratio": 0.5367047308319739
+            },
+            {
+                "date": "2020-12-04",
+                "hospital_capacity": 1226,
+                "num_patients": 732,
+                "ratio": 0.5970636215334421
+            },
+            {
+                "date": "2020-12-05",
+                "hospital_capacity": 1226,
+                "num_patients": 669,
+                "ratio": 0.5456769983686787
+            },
+            {
+                "date": "2020-12-06",
+                "hospital_capacity": 1226,
+                "num_patients": 684,
+                "ratio": 0.5579119086460033
+            },
+            {
+                "date": "2020-12-07",
+                "hospital_capacity": 1226,
+                "num_patients": 735,
+                "ratio": 0.5995106035889071
+            },
+            {
+                "date": "2020-12-08",
+                "hospital_capacity": 1226,
+                "num_patients": 650,
+                "ratio": 0.5301794453507341
+            },
+            {
+                "date": "2020-12-09",
+                "hospital_capacity": 1226,
+                "num_patients": 750,
+                "ratio": 0.6117455138662317
+            },
+            {
+                "date": "2020-12-10",
+                "hospital_capacity": 1226,
+                "num_patients": 747,
+                "ratio": 0.6092985318107668
+            },
+            {
+                "date": "2020-12-11",
+                "hospital_capacity": 1226,
+                "num_patients": 747,
+                "ratio": 0.6092985318107668
+            },
+            {
+                "date": "2020-12-12",
+                "hospital_capacity": 1226,
+                "num_patients": 793,
+                "ratio": 0.6468189233278956
+            },
+            {
+                "date": "2020-12-13",
+                "hospital_capacity": 1226,
+                "num_patients": 821,
+                "ratio": 0.6696574225122349
+            },
+            {
+                "date": "2020-12-14",
+                "hospital_capacity": 1226,
+                "num_patients": 864,
+                "ratio": 0.7047308319738989
+            },
+            {
+                "date": "2020-12-15",
+                "hospital_capacity": 1226,
+                "num_patients": 817,
+                "ratio": 0.666394779771615
+            }
+        ],
+        "accommodation_facility": [
+            {
+                "date": "2020-04-14",
+                "num_rooms": 400,
+                "num_patients": 13,
+                "ratio": 0.0325
+            },
+            {
+                "date": "2020-04-15",
+                "num_rooms": 400,
+                "num_patients": 15,
+                "ratio": 0.0375
+            },
+            {
+                "date": "2020-04-16",
+                "num_rooms": 400,
+                "num_patients": 22,
+                "ratio": 0.055
+            },
+            {
+                "date": "2020-04-17",
+                "num_rooms": 400,
+                "num_patients": 29,
+                "ratio": 0.0725
+            },
+            {
+                "date": "2020-04-18",
+                "num_rooms": 400,
+                "num_patients": 37,
+                "ratio": 0.0925
+            },
+            {
+                "date": "2020-04-19",
+                "num_rooms": 400,
+                "num_patients": 37,
+                "ratio": 0.0925
+            },
+            {
+                "date": "2020-04-20",
+                "num_rooms": 400,
+                "num_patients": 53,
+                "ratio": 0.1325
+            },
+            {
+                "date": "2020-04-21",
+                "num_rooms": 400,
+                "num_patients": 75,
+                "ratio": 0.1875
+            },
+            {
+                "date": "2020-04-22",
+                "num_rooms": 712,
+                "num_patients": 83,
+                "ratio": 0.11657303370786516
+            },
+            {
+                "date": "2020-04-23",
+                "num_rooms": 712,
+                "num_patients": 98,
+                "ratio": 0.13764044943820225
+            },
+            {
+                "date": "2020-04-24",
+                "num_rooms": 1504,
+                "num_patients": 113,
+                "ratio": 0.07513297872340426
+            },
+            {
+                "date": "2020-04-25",
+                "num_rooms": 1504,
+                "num_patients": 123,
+                "ratio": 0.08178191489361702
+            },
+            {
+                "date": "2020-04-26",
+                "num_rooms": 1504,
+                "num_patients": 131,
+                "ratio": 0.08710106382978723
+            },
+            {
+                "date": "2020-04-27",
+                "num_rooms": 1504,
+                "num_patients": 135,
+                "ratio": 0.08976063829787234
+            },
+            {
+                "date": "2020-04-28",
+                "num_rooms": 1504,
+                "num_patients": 144,
+                "ratio": 0.09574468085106383
+            },
+            {
+                "date": "2020-04-29",
+                "num_rooms": 1504,
+                "num_patients": 153,
+                "ratio": 0.10172872340425532
+            },
+            {
+                "date": "2020-04-30",
+                "num_rooms": 1504,
+                "num_patients": 180,
+                "ratio": 0.1196808510638298
+            },
+            {
+                "date": "2020-05-01",
+                "num_rooms": 1504,
+                "num_patients": 195,
+                "ratio": 0.12965425531914893
+            },
+            {
+                "date": "2020-05-02",
+                "num_rooms": 1504,
+                "num_patients": 208,
+                "ratio": 0.13829787234042554
+            },
+            {
+                "date": "2020-05-03",
+                "num_rooms": 1504,
+                "num_patients": 203,
+                "ratio": 0.13497340425531915
+            },
+            {
+                "date": "2020-05-04",
+                "num_rooms": 1504,
+                "num_patients": 179,
+                "ratio": 0.11901595744680851
+            },
+            {
+                "date": "2020-05-05",
+                "num_rooms": 1504,
+                "num_patients": 175,
+                "ratio": 0.1163563829787234
+            },
+            {
+                "date": "2020-05-06",
+                "num_rooms": 1504,
+                "num_patients": 165,
+                "ratio": 0.10970744680851063
+            },
+            {
+                "date": "2020-05-07",
+                "num_rooms": 1504,
+                "num_patients": 164,
+                "ratio": 0.10904255319148937
+            },
+            {
+                "date": "2020-05-08",
+                "num_rooms": 1504,
+                "num_patients": 166,
+                "ratio": 0.11037234042553191
+            },
+            {
+                "date": "2020-05-09",
+                "num_rooms": 1504,
+                "num_patients": 163,
+                "ratio": 0.10837765957446809
+            },
+            {
+                "date": "2020-05-10",
+                "num_rooms": 1504,
+                "num_patients": 141,
+                "ratio": 0.09375
+            },
+            {
+                "date": "2020-05-11",
+                "num_rooms": 1504,
+                "num_patients": 144,
+                "ratio": 0.09574468085106383
+            },
+            {
+                "date": "2020-05-12",
+                "num_rooms": 1504,
+                "num_patients": 146,
+                "ratio": 0.09707446808510638
+            },
+            {
+                "date": "2020-05-13",
+                "num_rooms": 1504,
+                "num_patients": 118,
+                "ratio": 0.07845744680851063
+            },
+            {
+                "date": "2020-05-14",
+                "num_rooms": 1504,
+                "num_patients": 94,
+                "ratio": 0.0625
+            },
+            {
+                "date": "2020-05-15",
+                "num_rooms": 1504,
+                "num_patients": 83,
+                "ratio": 0.05518617021276596
+            },
+            {
+                "date": "2020-05-16",
+                "num_rooms": 1504,
+                "num_patients": 83,
+                "ratio": 0.05518617021276596
+            },
+            {
+                "date": "2020-05-17",
+                "num_rooms": 1504,
+                "num_patients": 80,
+                "ratio": 0.05319148936170213
+            },
+            {
+                "date": "2020-05-18",
+                "num_rooms": 1504,
+                "num_patients": 80,
+                "ratio": 0.05319148936170213
+            },
+            {
+                "date": "2020-05-19",
+                "num_rooms": 1504,
+                "num_patients": 80,
+                "ratio": 0.05319148936170213
+            },
+            {
+                "date": "2020-05-20",
+                "num_rooms": 1504,
+                "num_patients": 70,
+                "ratio": 0.04654255319148936
+            },
+            {
+                "date": "2020-05-21",
+                "num_rooms": 1504,
+                "num_patients": 61,
+                "ratio": 0.04055851063829787
+            },
+            {
+                "date": "2020-05-22",
+                "num_rooms": 1504,
+                "num_patients": 54,
+                "ratio": 0.03590425531914894
+            },
+            {
+                "date": "2020-05-23",
+                "num_rooms": 1504,
+                "num_patients": 43,
+                "ratio": 0.028590425531914893
+            },
+            {
+                "date": "2020-05-24",
+                "num_rooms": 1504,
+                "num_patients": 37,
+                "ratio": 0.024601063829787235
+            },
+            {
+                "date": "2020-05-25",
+                "num_rooms": 1504,
+                "num_patients": 37,
+                "ratio": 0.024601063829787235
+            },
+            {
+                "date": "2020-05-26",
+                "num_rooms": 1504,
+                "num_patients": 37,
+                "ratio": 0.024601063829787235
+            },
+            {
+                "date": "2020-05-27",
+                "num_rooms": 1504,
+                "num_patients": 32,
+                "ratio": 0.02127659574468085
+            },
+            {
+                "date": "2020-05-28",
+                "num_rooms": 1504,
+                "num_patients": 22,
+                "ratio": 0.014627659574468085
+            },
+            {
+                "date": "2020-05-29",
+                "num_rooms": 1504,
+                "num_patients": 23,
+                "ratio": 0.015292553191489361
+            },
+            {
+                "date": "2020-05-30",
+                "num_rooms": 1504,
+                "num_patients": 21,
+                "ratio": 0.013962765957446808
+            },
+            {
+                "date": "2020-05-31",
+                "num_rooms": 1504,
+                "num_patients": 12,
+                "ratio": 0.007978723404255319
+            },
+            {
+                "date": "2020-06-01",
+                "num_rooms": 1504,
+                "num_patients": 12,
+                "ratio": 0.007978723404255319
+            },
+            {
+                "date": "2020-06-02",
+                "num_rooms": 1504,
+                "num_patients": 12,
+                "ratio": 0.007978723404255319
+            },
+            {
+                "date": "2020-06-03",
+                "num_rooms": 1504,
+                "num_patients": 9,
+                "ratio": 0.005984042553191489
+            },
+            {
+                "date": "2020-06-04",
+                "num_rooms": 1504,
+                "num_patients": 6,
+                "ratio": 0.003989361702127659
+            },
+            {
+                "date": "2020-06-05",
+                "num_rooms": 1504,
+                "num_patients": 5,
+                "ratio": 0.003324468085106383
+            },
+            {
+                "date": "2020-06-06",
+                "num_rooms": 1504,
+                "num_patients": 3,
+                "ratio": 0.0019946808510638296
+            },
+            {
+                "date": "2020-06-07",
+                "num_rooms": 1504,
+                "num_patients": 2,
+                "ratio": 0.0013297872340425532
+            },
+            {
+                "date": "2020-06-08",
+                "num_rooms": 1504,
+                "num_patients": 2,
+                "ratio": 0.0013297872340425532
+            },
+            {
+                "date": "2020-06-09",
+                "num_rooms": 1504,
+                "num_patients": 0,
+                "ratio": 0
+            },
+            {
+                "date": "2020-06-10",
+                "num_rooms": 1504,
+                "num_patients": 0,
+                "ratio": 0
+            },
+            {
+                "date": "2020-06-11",
+                "num_rooms": 1504,
+                "num_patients": 0,
+                "ratio": 0
+            },
+            {
+                "date": "2020-06-12",
+                "num_rooms": 1504,
+                "num_patients": 0,
+                "ratio": 0
+            },
+            {
+                "date": "2020-06-13",
+                "num_rooms": 1504,
+                "num_patients": 1,
+                "ratio": 0.0006648936170212766
+            },
+            {
+                "date": "2020-06-14",
+                "num_rooms": 1504,
+                "num_patients": 1,
+                "ratio": 0.0006648936170212766
+            },
+            {
+                "date": "2020-06-15",
+                "num_rooms": 1504,
+                "num_patients": 1,
+                "ratio": 0.0006648936170212766
+            },
+            {
+                "date": "2020-06-16",
+                "num_rooms": 1504,
+                "num_patients": 1,
+                "ratio": 0.0006648936170212766
+            },
+            {
+                "date": "2020-06-17",
+                "num_rooms": 1504,
+                "num_patients": 2,
+                "ratio": 0.0013297872340425532
+            },
+            {
+                "date": "2020-06-18",
+                "num_rooms": 1504,
+                "num_patients": 2,
+                "ratio": 0.0013297872340425532
+            },
+            {
+                "date": "2020-06-19",
+                "num_rooms": 1504,
+                "num_patients": 3,
+                "ratio": 0.0019946808510638296
+            },
+            {
+                "date": "2020-06-20",
+                "num_rooms": 1504,
+                "num_patients": 3,
+                "ratio": 0.0019946808510638296
+            },
+            {
+                "date": "2020-06-21",
+                "num_rooms": 1504,
+                "num_patients": 0,
+                "ratio": 0
+            },
+            {
+                "date": "2020-06-22",
+                "num_rooms": 1504,
+                "num_patients": 2,
+                "ratio": 0.0013297872340425532
+            },
+            {
+                "date": "2020-06-23",
+                "num_rooms": 1504,
+                "num_patients": 2,
+                "ratio": 0.0013297872340425532
+            },
+            {
+                "date": "2020-06-24",
+                "num_rooms": 1504,
+                "num_patients": 2,
+                "ratio": 0.0013297872340425532
+            },
+            {
+                "date": "2020-06-25",
+                "num_rooms": 1504,
+                "num_patients": 2,
+                "ratio": 0.0013297872340425532
+            },
+            {
+                "date": "2020-06-26",
+                "num_rooms": 1504,
+                "num_patients": 4,
+                "ratio": 0.0026595744680851063
+            },
+            {
+                "date": "2020-06-27",
+                "num_rooms": 1504,
+                "num_patients": 3,
+                "ratio": 0.0019946808510638296
+            },
+            {
+                "date": "2020-06-28",
+                "num_rooms": 1504,
+                "num_patients": 3,
+                "ratio": 0.0019946808510638296
+            },
+            {
+                "date": "2020-06-29",
+                "num_rooms": 1504,
+                "num_patients": 7,
+                "ratio": 0.004654255319148936
+            },
+            {
+                "date": "2020-06-30",
+                "num_rooms": 1504,
+                "num_patients": 8,
+                "ratio": 0.005319148936170213
+            },
+            {
+                "date": "2020-07-01",
+                "num_rooms": 400,
+                "num_patients": 9,
+                "ratio": 0.0225
+            },
+            {
+                "date": "2020-07-02",
+                "num_rooms": 400,
+                "num_patients": 15,
+                "ratio": 0.0375
+            },
+            {
+                "date": "2020-07-03",
+                "num_rooms": 400,
+                "num_patients": 17,
+                "ratio": 0.0425
+            },
+            {
+                "date": "2020-07-04",
+                "num_rooms": 400,
+                "num_patients": 20,
+                "ratio": 0.05
+            },
+            {
+                "date": "2020-07-05",
+                "num_rooms": 400,
+                "num_patients": 25,
+                "ratio": 0.0625
+            },
+            {
+                "date": "2020-07-06",
+                "num_rooms": 400,
+                "num_patients": 26,
+                "ratio": 0.065
+            },
+            {
+                "date": "2020-07-07",
+                "num_rooms": 400,
+                "num_patients": 23,
+                "ratio": 0.0575
+            },
+            {
+                "date": "2020-07-08",
+                "num_rooms": 400,
+                "num_patients": 21,
+                "ratio": 0.0525
+            },
+            {
+                "date": "2020-07-09",
+                "num_rooms": 400,
+                "num_patients": 20,
+                "ratio": 0.05
+            },
+            {
+                "date": "2020-07-10",
+                "num_rooms": 400,
+                "num_patients": 27,
+                "ratio": 0.0675
+            },
+            {
+                "date": "2020-07-11",
+                "num_rooms": 400,
+                "num_patients": 33,
+                "ratio": 0.0825
+            },
+            {
+                "date": "2020-07-12",
+                "num_rooms": 400,
+                "num_patients": 38,
+                "ratio": 0.095
+            },
+            {
+                "date": "2020-07-13",
+                "num_rooms": 712,
+                "num_patients": 36,
+                "ratio": 0.05056179775280899
+            },
+            {
+                "date": "2020-07-14",
+                "num_rooms": 712,
+                "num_patients": 40,
+                "ratio": 0.056179775280898875
+            },
+            {
+                "date": "2020-07-15",
+                "num_rooms": 712,
+                "num_patients": 51,
+                "ratio": 0.07162921348314606
+            },
+            {
+                "date": "2020-07-16",
+                "num_rooms": 712,
+                "num_patients": 55,
+                "ratio": 0.07724719101123595
+            },
+            {
+                "date": "2020-07-17",
+                "num_rooms": 712,
+                "num_patients": 57,
+                "ratio": 0.0800561797752809
+            },
+            {
+                "date": "2020-07-18",
+                "num_rooms": 712,
+                "num_patients": 75,
+                "ratio": 0.10533707865168539
+            },
+            {
+                "date": "2020-07-19",
+                "num_rooms": 712,
+                "num_patients": 98,
+                "ratio": 0.13764044943820225
+            },
+            {
+                "date": "2020-07-20",
+                "num_rooms": 712,
+                "num_patients": 130,
+                "ratio": 0.18258426966292135
+            },
+            {
+                "date": "2020-07-21",
+                "num_rooms": 712,
+                "num_patients": 154,
+                "ratio": 0.21629213483146068
+            },
+            {
+                "date": "2020-07-22",
+                "num_rooms": 712,
+                "num_patients": 148,
+                "ratio": 0.20786516853932585
+            },
+            {
+                "date": "2020-07-23",
+                "num_rooms": 712,
+                "num_patients": 155,
+                "ratio": 0.21769662921348315
+            },
+            {
+                "date": "2020-07-24",
+                "num_rooms": 712,
+                "num_patients": 187,
+                "ratio": 0.26264044943820225
+            },
+            {
+                "date": "2020-07-25",
+                "num_rooms": 712,
+                "num_patients": 211,
+                "ratio": 0.29634831460674155
+            },
+            {
+                "date": "2020-07-26",
+                "num_rooms": 712,
+                "num_patients": 234,
+                "ratio": 0.32865168539325845
+            },
+            {
+                "date": "2020-07-27",
+                "num_rooms": 712,
+                "num_patients": 228,
+                "ratio": 0.3202247191011236
+            },
+            {
+                "date": "2020-07-28",
+                "num_rooms": 712,
+                "num_patients": 233,
+                "ratio": 0.32724719101123595
+            },
+            {
+                "date": "2020-07-29",
+                "num_rooms": 712,
+                "num_patients": 225,
+                "ratio": 0.3160112359550562
+            },
+            {
+                "date": "2020-07-30",
+                "num_rooms": 957,
+                "num_patients": 229,
+                "ratio": 0.2392894461859979
+            },
+            {
+                "date": "2020-07-31",
+                "num_rooms": 957,
+                "num_patients": 272,
+                "ratio": 0.28422152560083597
+            },
+            {
+                "date": "2020-08-01",
+                "num_rooms": 957,
+                "num_patients": 297,
+                "ratio": 0.3103448275862069
+            },
+            {
+                "date": "2020-08-02",
+                "num_rooms": 957,
+                "num_patients": 326,
+                "ratio": 0.3406478578892372
+            },
+            {
+                "date": "2020-08-03",
+                "num_rooms": 957,
+                "num_patients": 308,
+                "ratio": 0.3218390804597701
+            },
+            {
+                "date": "2020-08-04",
+                "num_rooms": 957,
+                "num_patients": 362,
+                "ratio": 0.3782654127481714
+            },
+            {
+                "date": "2020-08-05",
+                "num_rooms": 1229,
+                "num_patients": 338,
+                "ratio": 0.27502034174125306
+            },
+            {
+                "date": "2020-08-06",
+                "num_rooms": 1229,
+                "num_patients": 350,
+                "ratio": 0.2847843775427177
+            },
+            {
+                "date": "2020-08-07",
+                "num_rooms": 1229,
+                "num_patients": 354,
+                "ratio": 0.28803905614320585
+            },
+            {
+                "date": "2020-08-08",
+                "num_rooms": 1229,
+                "num_patients": 294,
+                "ratio": 0.23921887713588283
+            },
+            {
+                "date": "2020-08-09",
+                "num_rooms": 1229,
+                "num_patients": 288,
+                "ratio": 0.23433685923515052
+            },
+            {
+                "date": "2020-08-10",
+                "num_rooms": 1229,
+                "num_patients": 267,
+                "ratio": 0.21724979658258747
+            },
+            {
+                "date": "2020-08-11",
+                "num_rooms": 1229,
+                "num_patients": 273,
+                "ratio": 0.22213181448331978
+            },
+            {
+                "date": "2020-08-12",
+                "num_rooms": 1229,
+                "num_patients": 280,
+                "ratio": 0.22782750203417412
+            },
+            {
+                "date": "2020-08-13",
+                "num_rooms": 1229,
+                "num_patients": 252,
+                "ratio": 0.2050447518307567
+            },
+            {
+                "date": "2020-08-14",
+                "num_rooms": 1229,
+                "num_patients": 251,
+                "ratio": 0.20423108218063465
+            },
+            {
+                "date": "2020-08-15",
+                "num_rooms": 1229,
+                "num_patients": 253,
+                "ratio": 0.20585842148087877
+            },
+            {
+                "date": "2020-08-16",
+                "num_rooms": 1229,
+                "num_patients": 235,
+                "ratio": 0.19121236777868186
+            },
+            {
+                "date": "2020-08-17",
+                "num_rooms": 1229,
+                "num_patients": 229,
+                "ratio": 0.18633034987794955
+            },
+            {
+                "date": "2020-08-18",
+                "num_rooms": 1229,
+                "num_patients": 226,
+                "ratio": 0.1838893409275834
+            },
+            {
+                "date": "2020-08-19",
+                "num_rooms": 1229,
+                "num_patients": 213,
+                "ratio": 0.17331163547599673
+            },
+            {
+                "date": "2020-08-20",
+                "num_rooms": 1229,
+                "num_patients": 213,
+                "ratio": 0.17331163547599673
+            },
+            {
+                "date": "2020-08-21",
+                "num_rooms": 1517,
+                "num_patients": 205,
+                "ratio": 0.13513513513513514
+            },
+            {
+                "date": "2020-08-22",
+                "num_rooms": 1517,
+                "num_patients": 190,
+                "ratio": 0.12524719841793014
+            },
+            {
+                "date": "2020-08-23",
+                "num_rooms": 1517,
+                "num_patients": 211,
+                "ratio": 0.13909030982201714
+            },
+            {
+                "date": "2020-08-24",
+                "num_rooms": 1517,
+                "num_patients": 214,
+                "ratio": 0.14106789716545814
+            },
+            {
+                "date": "2020-08-25",
+                "num_rooms": 1517,
+                "num_patients": 203,
+                "ratio": 0.13381674357284112
+            },
+            {
+                "date": "2020-08-26",
+                "num_rooms": 1517,
+                "num_patients": 213,
+                "ratio": 0.14040870138431114
+            },
+            {
+                "date": "2020-08-27",
+                "num_rooms": 1517,
+                "num_patients": 179,
+                "ratio": 0.11799604482531312
+            },
+            {
+                "date": "2020-08-28",
+                "num_rooms": 1517,
+                "num_patients": 204,
+                "ratio": 0.13447593935398813
+            },
+            {
+                "date": "2020-08-29",
+                "num_rooms": 1517,
+                "num_patients": 174,
+                "ratio": 0.11470006591957811
+            },
+            {
+                "date": "2020-08-30",
+                "num_rooms": 1517,
+                "num_patients": 161,
+                "ratio": 0.1061305207646671
+            },
+            {
+                "date": "2020-08-31",
+                "num_rooms": 1517,
+                "num_patients": 155,
+                "ratio": 0.1021753460777851
+            },
+            {
+                "date": "2020-09-01",
+                "num_rooms": 1517,
+                "num_patients": 144,
+                "ratio": 0.09492419248516809
+            },
+            {
+                "date": "2020-09-02",
+                "num_rooms": 1517,
+                "num_patients": 136,
+                "ratio": 0.08965062623599208
+            },
+            {
+                "date": "2020-09-03",
+                "num_rooms": 1517,
+                "num_patients": 140,
+                "ratio": 0.0922874093605801
+            },
+            {
+                "date": "2020-09-04",
+                "num_rooms": 1517,
+                "num_patients": 145,
+                "ratio": 0.0955833882663151
+            },
+            {
+                "date": "2020-09-05",
+                "num_rooms": 1517,
+                "num_patients": 151,
+                "ratio": 0.0995385629531971
+            },
+            {
+                "date": "2020-09-06",
+                "num_rooms": 1517,
+                "num_patients": 135,
+                "ratio": 0.08899143045484509
+            },
+            {
+                "date": "2020-09-07",
+                "num_rooms": 1517,
+                "num_patients": 133,
+                "ratio": 0.08767303889255108
+            },
+            {
+                "date": "2020-09-08",
+                "num_rooms": 1517,
+                "num_patients": 128,
+                "ratio": 0.08437705998681608
+            },
+            {
+                "date": "2020-09-09",
+                "num_rooms": 1517,
+                "num_patients": 135,
+                "ratio": 0.08899143045484509
+            },
+            {
+                "date": "2020-09-10",
+                "num_rooms": 1517,
+                "num_patients": 148,
+                "ratio": 0.0975609756097561
+            },
+            {
+                "date": "2020-09-11",
+                "num_rooms": 1517,
+                "num_patients": 154,
+                "ratio": 0.1015161502966381
+            },
+            {
+                "date": "2020-09-12",
+                "num_rooms": 1517,
+                "num_patients": 157,
+                "ratio": 0.1034937376400791
+            },
+            {
+                "date": "2020-09-13",
+                "num_rooms": 1517,
+                "num_patients": 168,
+                "ratio": 0.11074489123269611
+            },
+            {
+                "date": "2020-09-14",
+                "num_rooms": 1517,
+                "num_patients": 180,
+                "ratio": 0.11865524060646011
+            },
+            {
+                "date": "2020-09-15",
+                "num_rooms": 1517,
+                "num_patients": 170,
+                "ratio": 0.11206328279499012
+            },
+            {
+                "date": "2020-09-16",
+                "num_rooms": 1517,
+                "num_patients": 172,
+                "ratio": 0.1133816743572841
+            },
+            {
+                "date": "2020-09-17",
+                "num_rooms": 1517,
+                "num_patients": 150,
+                "ratio": 0.09887936717205009
+            },
+            {
+                "date": "2020-09-18",
+                "num_rooms": 1517,
+                "num_patients": 143,
+                "ratio": 0.0942649967040211
+            },
+            {
+                "date": "2020-09-19",
+                "num_rooms": 1517,
+                "num_patients": 128,
+                "ratio": 0.08437705998681608
+            },
+            {
+                "date": "2020-09-20",
+                "num_rooms": 1517,
+                "num_patients": 124,
+                "ratio": 0.08174027686222808
+            },
+            {
+                "date": "2020-09-21",
+                "num_rooms": 1517,
+                "num_patients": 135,
+                "ratio": 0.08899143045484509
+            },
+            {
+                "date": "2020-09-22",
+                "num_rooms": 1517,
+                "num_patients": 136,
+                "ratio": 0.08965062623599208
+            },
+            {
+                "date": "2020-09-23",
+                "num_rooms": 1517,
+                "num_patients": 126,
+                "ratio": 0.08305866842452209
+            },
+            {
+                "date": "2020-09-24",
+                "num_rooms": 1517,
+                "num_patients": 115,
+                "ratio": 0.07580751483190508
+            },
+            {
+                "date": "2020-09-25",
+                "num_rooms": 1517,
+                "num_patients": 115,
+                "ratio": 0.07580751483190508
+            },
+            {
+                "date": "2020-09-26",
+                "num_rooms": 1517,
+                "num_patients": 122,
+                "ratio": 0.08042188529993408
+            },
+            {
+                "date": "2020-09-27",
+                "num_rooms": 1517,
+                "num_patients": 122,
+                "ratio": 0.08042188529993408
+            },
+            {
+                "date": "2020-09-28",
+                "num_rooms": 1517,
+                "num_patients": 114,
+                "ratio": 0.07514831905075807
+            },
+            {
+                "date": "2020-09-29",
+                "num_rooms": 1517,
+                "num_patients": 99,
+                "ratio": 0.06526038233355307
+            },
+            {
+                "date": "2020-09-30",
+                "num_rooms": 1517,
+                "num_patients": 97,
+                "ratio": 0.06394199077125906
+            },
+            {
+                "date": "2020-10-01",
+                "num_rooms": 1517,
+                "num_patients": 92,
+                "ratio": 0.06064601186552406
+            },
+            {
+                "date": "2020-10-02",
+                "num_rooms": 1517,
+                "num_patients": 95,
+                "ratio": 0.06262359920896507
+            },
+            {
+                "date": "2020-10-03",
+                "num_rooms": 1517,
+                "num_patients": 96,
+                "ratio": 0.06328279499011207
+            },
+            {
+                "date": "2020-10-04",
+                "num_rooms": 1517,
+                "num_patients": 95,
+                "ratio": 0.06262359920896507
+            },
+            {
+                "date": "2020-10-05",
+                "num_rooms": 1517,
+                "num_patients": 94,
+                "ratio": 0.06196440342781806
+            },
+            {
+                "date": "2020-10-06",
+                "num_rooms": 1517,
+                "num_patients": 89,
+                "ratio": 0.05866842452208306
+            },
+            {
+                "date": "2020-10-07",
+                "num_rooms": 1517,
+                "num_patients": 85,
+                "ratio": 0.05603164139749506
+            },
+            {
+                "date": "2020-10-08",
+                "num_rooms": 1517,
+                "num_patients": 99,
+                "ratio": 0.06526038233355307
+            },
+            {
+                "date": "2020-10-09",
+                "num_rooms": 1517,
+                "num_patients": 100,
+                "ratio": 0.06591957811470006
+            },
+            {
+                "date": "2020-10-10",
+                "num_rooms": 1517,
+                "num_patients": 104,
+                "ratio": 0.06855636123928807
+            },
+            {
+                "date": "2020-10-11",
+                "num_rooms": 1517,
+                "num_patients": 106,
+                "ratio": 0.06987475280158208
+            },
+            {
+                "date": "2020-10-12",
+                "num_rooms": 1517,
+                "num_patients": 102,
+                "ratio": 0.06723796967699407
+            },
+            {
+                "date": "2020-10-13",
+                "num_rooms": 1517,
+                "num_patients": 93,
+                "ratio": 0.061305207646671064
+            },
+            {
+                "date": "2020-10-14",
+                "num_rooms": 1517,
+                "num_patients": 99,
+                "ratio": 0.06526038233355307
+            },
+            {
+                "date": "2020-10-15",
+                "num_rooms": 1517,
+                "num_patients": 112,
+                "ratio": 0.07382992748846408
+            },
+            {
+                "date": "2020-10-16",
+                "num_rooms": 1517,
+                "num_patients": 110,
+                "ratio": 0.07251153592617007
+            },
+            {
+                "date": "2020-10-17",
+                "num_rooms": 1517,
+                "num_patients": 115,
+                "ratio": 0.07580751483190508
+            },
+            {
+                "date": "2020-10-18",
+                "num_rooms": 1517,
+                "num_patients": 109,
+                "ratio": 0.07185234014502308
+            },
+            {
+                "date": "2020-10-19",
+                "num_rooms": 1517,
+                "num_patients": 103,
+                "ratio": 0.06789716545814106
+            },
+            {
+                "date": "2020-10-20",
+                "num_rooms": 1517,
+                "num_patients": 106,
+                "ratio": 0.06987475280158208
+            },
+            {
+                "date": "2020-10-21",
+                "num_rooms": 1517,
+                "num_patients": 105,
+                "ratio": 0.06921555702043507
+            },
+            {
+                "date": "2020-10-22",
+                "num_rooms": 1517,
+                "num_patients": 108,
+                "ratio": 0.07119314436387607
+            },
+            {
+                "date": "2020-10-23",
+                "num_rooms": 1517,
+                "num_patients": 108,
+                "ratio": 0.07119314436387607
+            },
+            {
+                "date": "2020-10-24",
+                "num_rooms": 1517,
+                "num_patients": 117,
+                "ratio": 0.07712590639419907
+            },
+            {
+                "date": "2020-10-25",
+                "num_rooms": 1517,
+                "num_patients": 139,
+                "ratio": 0.09162821357943308
+            },
+            {
+                "date": "2020-10-26",
+                "num_rooms": 1517,
+                "num_patients": 151,
+                "ratio": 0.0995385629531971
+            },
+            {
+                "date": "2020-10-27",
+                "num_rooms": 1517,
+                "num_patients": 146,
+                "ratio": 0.0962425840474621
+            },
+            {
+                "date": "2020-10-28",
+                "num_rooms": 1517,
+                "num_patients": 160,
+                "ratio": 0.1054713249835201
+            },
+            {
+                "date": "2020-10-29",
+                "num_rooms": 1517,
+                "num_patients": 169,
+                "ratio": 0.1114040870138431
+            },
+            {
+                "date": "2020-10-30",
+                "num_rooms": 1517,
+                "num_patients": 171,
+                "ratio": 0.11272247857613711
+            },
+            {
+                "date": "2020-10-31",
+                "num_rooms": 1517,
+                "num_patients": 189,
+                "ratio": 0.12458800263678313
+            },
+            {
+                "date": "2020-11-01",
+                "num_rooms": 1517,
+                "num_patients": 222,
+                "ratio": 0.14634146341463414
+            },
+            {
+                "date": "2020-11-02",
+                "num_rooms": 1517,
+                "num_patients": 239,
+                "ratio": 0.15754779169413316
+            },
+            {
+                "date": "2020-11-03",
+                "num_rooms": 1517,
+                "num_patients": 247,
+                "ratio": 0.16282135794330915
+            },
+            {
+                "date": "2020-11-04",
+                "num_rooms": 1517,
+                "num_patients": 253,
+                "ratio": 0.16677653263019115
+            },
+            {
+                "date": "2020-11-05",
+                "num_rooms": 1517,
+                "num_patients": 266,
+                "ratio": 0.17534607778510217
+            },
+            {
+                "date": "2020-11-06",
+                "num_rooms": 1517,
+                "num_patients": 275,
+                "ratio": 0.18127883981542517
+            },
+            {
+                "date": "2020-11-07",
+                "num_rooms": 1517,
+                "num_patients": 243,
+                "ratio": 0.16018457481872117
+            },
+            {
+                "date": "2020-11-08",
+                "num_rooms": 1517,
+                "num_patients": 269,
+                "ratio": 0.17732366512854317
+            },
+            {
+                "date": "2020-11-09",
+                "num_rooms": 1517,
+                "num_patients": 276,
+                "ratio": 0.18193803559657218
+            },
+            {
+                "date": "2020-11-10",
+                "num_rooms": 1517,
+                "num_patients": 275,
+                "ratio": 0.18127883981542517
+            },
+            {
+                "date": "2020-11-11",
+                "num_rooms": 1517,
+                "num_patients": 315,
+                "ratio": 0.20764667106130522
+            },
+            {
+                "date": "2020-11-12",
+                "num_rooms": 1517,
+                "num_patients": 349,
+                "ratio": 0.23005932762030323
+            },
+            {
+                "date": "2020-11-13",
+                "num_rooms": 1517,
+                "num_patients": 381,
+                "ratio": 0.25115359261700726
+            },
+            {
+                "date": "2020-11-14",
+                "num_rooms": 1517,
+                "num_patients": 387,
+                "ratio": 0.25510876730388926
+            },
+            {
+                "date": "2020-11-15",
+                "num_rooms": 1517,
+                "num_patients": 436,
+                "ratio": 0.2874093605800923
+            },
+            {
+                "date": "2020-11-16",
+                "num_rooms": 1517,
+                "num_patients": 490,
+                "ratio": 0.3230059327620303
+            },
+            {
+                "date": "2020-11-17",
+                "num_rooms": 1517,
+                "num_patients": 465,
+                "ratio": 0.3065260382333553
+            },
+            {
+                "date": "2020-11-18",
+                "num_rooms": 1517,
+                "num_patients": 475,
+                "ratio": 0.3131179960448253
+            },
+            {
+                "date": "2020-11-19",
+                "num_rooms": 1517,
+                "num_patients": 497,
+                "ratio": 0.3276203032300593
+            },
+            {
+                "date": "2020-11-20",
+                "num_rooms": 1517,
+                "num_patients": 473,
+                "ratio": 0.3117996044825313
+            },
+            {
+                "date": "2020-11-21",
+                "num_rooms": 1517,
+                "num_patients": 467,
+                "ratio": 0.3078444297956493
+            },
+            {
+                "date": "2020-11-22",
+                "num_rooms": 1517,
+                "num_patients": 451,
+                "ratio": 0.2972972972972973
+            },
+            {
+                "date": "2020-11-23",
+                "num_rooms": 1517,
+                "num_patients": 675,
+                "ratio": 0.44495715227422544
+            },
+            {
+                "date": "2020-11-24",
+                "num_rooms": 1517,
+                "num_patients": 702,
+                "ratio": 0.46275543836519445
+            },
+            {
+                "date": "2020-11-25",
+                "num_rooms": 1517,
+                "num_patients": 711,
+                "ratio": 0.46868820039551745
+            },
+            {
+                "date": "2020-11-26",
+                "num_rooms": 1517,
+                "num_patients": 692,
+                "ratio": 0.45616348055372447
+            },
+            {
+                "date": "2020-11-27",
+                "num_rooms": 1555,
+                "num_patients": 670,
+                "ratio": 0.43086816720257237
+            },
+            {
+                "date": "2020-11-28",
+                "num_rooms": 1555,
+                "num_patients": 651,
+                "ratio": 0.41864951768488745
+            },
+            {
+                "date": "2020-11-29",
+                "num_rooms": 1555,
+                "num_patients": 634,
+                "ratio": 0.4077170418006431
+            },
+            {
+                "date": "2020-11-30",
+                "num_rooms": 1555,
+                "num_patients": 650,
+                "ratio": 0.4180064308681672
+            },
+            {
+                "date": "2020-12-01",
+                "num_rooms": 1555,
+                "num_patients": 640,
+                "ratio": 0.4115755627009646
+            },
+            {
+                "date": "2020-12-02",
+                "num_rooms": 1555,
+                "num_patients": 630,
+                "ratio": 0.40514469453376206
+            },
+            {
+                "date": "2020-12-03",
+                "num_rooms": 1789,
+                "num_patients": 630,
+                "ratio": 0.3521520402459475
+            },
+            {
+                "date": "2020-12-04",
+                "num_rooms": 1789,
+                "num_patients": 648,
+                "ratio": 0.3622135271101174
+            },
+            {
+                "date": "2020-12-05",
+                "num_rooms": 1789,
+                "num_patients": 693,
+                "ratio": 0.3873672442705422
+            },
+            {
+                "date": "2020-12-06",
+                "num_rooms": 1789,
+                "num_patients": 691,
+                "ratio": 0.38624930128563445
+            },
+            {
+                "date": "2020-12-07",
+                "num_rooms": 1789,
+                "num_patients": 695,
+                "ratio": 0.38848518725544995
+            },
+            {
+                "date": "2020-12-08",
+                "num_rooms": 1789,
+                "num_patients": 694,
+                "ratio": 0.3879262157629961
+            },
+            {
+                "date": "2020-12-09",
+                "num_rooms": 1789,
+                "num_patients": 679,
+                "ratio": 0.3795416433761878
+            },
+            {
+                "date": "2020-12-10",
+                "num_rooms": 1789,
+                "num_patients": 693,
+                "ratio": 0.3873672442705422
+            },
+            {
+                "date": "2020-12-11",
+                "num_rooms": 1789,
+                "num_patients": 731,
+                "ratio": 0.4086081609837898
+            },
+            {
+                "date": "2020-12-12",
+                "num_rooms": 1789,
+                "num_patients": 767,
+                "ratio": 0.4287311347121297
+            },
+            {
+                "date": "2020-12-13",
+                "num_rooms": 1789,
+                "num_patients": 791,
+                "ratio": 0.4421464505310229
+            },
+            {
+                "date": "2020-12-14",
+                "num_rooms": 1789,
+                "num_patients": 803,
+                "ratio": 0.4488541084404695
+            },
+            {
+                "date": "2020-12-15",
+                "num_rooms": 2019,
+                "num_patients": 791,
+                "ratio": 0.39177810797424467
+            }
+        ]
+    }
+}
