@@ -25,91 +25,115 @@ def download_osaka_model_data_file():
     return excel_file_name
 
 
-#num_data_type データの種類の数　
-def process_one_table(ws,min_row,num_data_type=3):
-    max_col=ws.max_column
-    
+def get_bed_data_for_mild_or_moderate_patients(ws):
     data=[]
-    for col in ws.iter_cols(min_row=min_row,max_row=min_row+num_data_type,min_col=2,max_col=max_col):
-        date_value=col[0].value
-        if date_value is None:
-            break
-        date=date_value.date()
-        # print(date)
-        d=list(map(lambda item:item.value,col[1:]))
+    found_first_value=None
+    for col in range(2,ws.max_column+1):
 
-        #１つでもNoneがあれば、終了
-        if any([item is None for item in d]):
-            break
+        dt=ws.cell(37,col).value
+        num_beds=ws.cell(38,col).value
 
+        #最初の部分で未記入のものは飛ばす
+        if num_beds is None and not found_first_value:
+            continue
+            
+        #最新の未記入のデータの部分で終了
+        if num_beds is None and found_first_value:
+            break 
 
-        d_dict={"item"+str(i):item for (i,item) in enumerate(d)}
+        num_patients=ws.cell(39,col).value
+        ratio=ws.cell(40,col).value
+        print([dt,num_beds,num_patients,ratio])
+
         data.append({
-            "date":date_value.date(),
-            **d_dict
+            "date":dt.date().isoformat(),
+            "hospital_capacity":num_beds,
+            "num_patients":num_patients,
+            "ratio":ratio
         })
 
     return data
 
-def _get_data(ws):
-    num_data_type=3
+
+def get_bed_data_for_severe_patients(ws):
     data=[]
-    for i in range(100): #実際には4つぐらいしか処理しない。
-        #日付+データ数の数+空白　の合計(num_data_type+2)だけずらして処理していく
-        min_row=32+i*(num_data_type+2)
-        # print(min_row)
-        date_cell=ws.cell(min_row,2)
-        if date_cell.value is None:
-            break
+    found_first_value=None
+    for col in range(2,ws.max_column+1):
 
-        d=process_one_table(ws,min_row,num_data_type=num_data_type)
-        data.extend(d)
+        dt=ws.cell(31,col).value
+        num_beds=ws.cell(32,col).value
+
+        #最初の部分で未記入のものは飛ばす
+        if num_beds is None and not found_first_value:
+            continue
             
+        #最新の未記入のデータの部分で終了
+        if num_beds is None and found_first_value:
+            break 
+
+        num_patients=ws.cell(33,col).value
+        ratio=ws.cell(34,col).value
+        print([dt,num_beds,num_patients,ratio])
+
+        data.append({
+            "date":dt.date().isoformat(),
+            "hospital_capacity":num_beds,
+            "num_patients":num_patients,
+            "ratio":ratio
+        })
+
     return data
-def get_bed_data_for_mild_or_moderate_patients(wb):
-    ws=wb["(参考③)"]
-    return _get_data(ws)
 
-def get_bed_data_for_severe_patients(wb):
-    ws=wb["(3)"]
-    return _get_data(ws)
 
-def get_accommodation_facility_data(wb):
-    ws=wb["(参考④)"]
-    return _get_data(ws)
+def get_accommodation_facility_data(ws):
+    data=[]
+    found_first_value=None
+    for col in range(2,ws.max_column+1):
+        dt=ws.cell(43,col).value
+        num_rooms=ws.cell(44,col).value
 
-def rename_keys(array,names):
-    for d in array:
-        d["date"]=d["date"].isoformat()
+        #最初の部分で未記入のものは飛ばす
+        if num_rooms is None and not found_first_value:
+            continue
+            
+        #最新の未記入のデータの部分で終了
+        if num_rooms is None and found_first_value:
+            break 
 
-        for i,name in enumerate(names):
-            d[names[i]]=d.pop("item"+str(i))
+        num_patients=ws.cell(45,col).value
+        ratio=ws.cell(46,col).value
+        print([dt,num_rooms,num_patients,ratio])
+
+        data.append({
+            "date":dt.date().isoformat(),
+            "num_rooms":num_rooms,
+            "num_patients":num_patients,
+            "ratio":ratio
+        })
+
+    return data
+
 
 def main():
     file_name=download_osaka_model_data_file()
 
 
     wb=load_workbook(file_name,data_only=True)
+    ws=wb["データ一覧"]
 
-    bed_data_for_mild_moderate=get_bed_data_for_mild_or_moderate_patients(wb)
-    #キーの名前変更
-    rename_keys(bed_data_for_mild_moderate,["hospital_capacity","num_patients","percentage"])
-
-    bed_data_for_severe=get_bed_data_for_severe_patients(wb)
-    rename_keys(bed_data_for_severe,["hospital_capacity","num_patients","percentage"])
-
-    data_accommodation_facility=get_accommodation_facility_data(wb)
-    rename_keys(data_accommodation_facility,["num_rooms","num_patients","percentage"])
+    bed_data_for_severe=get_bed_data_for_severe_patients(ws)
+    bed_data_for_mild_moderate=get_bed_data_for_mild_or_moderate_patients(ws)
+    data_accommodation_facility=get_accommodation_facility_data(ws)
 
     data={
         "data":{
-            "bed_data_for_mild_moderate":bed_data_for_mild_moderate,
-            "bed_data_for_severe":bed_data_for_severe,
-            "data_accommodation_facility":data_accommodation_facility
+            "severe":bed_data_for_severe,
+            "mild_moderate":bed_data_for_mild_moderate,
+            "accommodation_facility":data_accommodation_facility
         }
     }
 
-    with open("hospital_beds_data.json","w") as f:
+    with open("osaka_bed_data.json","w") as f:
         json.dump(data,f,indent=4)
 
 if __name__ == "__main__":
